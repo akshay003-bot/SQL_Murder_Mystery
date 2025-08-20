@@ -1,5 +1,6 @@
 import React from 'react';
 import '../styles/Hero.css';
+import { Link } from 'react-router-dom';
 import titleImage from '../assets/Screenshot_2025-04-17_100946-removebg-preview (1).png';
 
 const Hero = () => {
@@ -15,7 +16,7 @@ const Hero = () => {
                 Every brand has a secret waiting to be told. We're the private eyes of the digital world, digging through the noise to find your truth. We don't just build websites; we build alibis, legends, and legacies that last.
             </p>
             <div class="action-buttons">
-                <a href='/case1sql'><button class="case-button">Open the Case File</button></a>
+                <Link to="/case1sql"><button class="case-button">Open the Case File</button></Link>
                 <button class="evidence-button">Review the Evidence</button>
             </div>
             <div class="classified-seal">

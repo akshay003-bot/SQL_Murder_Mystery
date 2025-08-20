@@ -1,5 +1,6 @@
 import React from 'react';
 import { Helmet } from 'react-helmet';
+import { Link } from 'react-router-dom';
 import '../styles/Navbar.css'
 
 const Navbar = () => {
@@ -27,10 +28,12 @@ const Navbar = () => {
                 <span class="nav-link-text">Pricing</span>
                 <span class="nav-link-text-hover">Pricing</span>
             </a>
-            <a href="/learn" class="nav-link-group">
+            <Link to="/learn">
+            <a class="nav-link-group">
                 <span class="nav-link-text">Docs</span>
                 <span class="nav-link-text-hover">Docs</span>
             </a>
+            </Link>
             <a href="https://akshay003-bot.github.io/Akshay_Nasanakota_Portfolio/" class="nav-link-group">
                 <span class="nav-link-text">Know Me</span>
                 <span class="nav-link-text-hover">Know Me</span>
@@ -38,11 +41,11 @@ const Navbar = () => {
         </div>
 
         <div class="desktop-action-buttons">
-            <a href='/case1sql'>
+            <Link to="/case1sql">
             <button class="get-started-button">
                 Get Started
             </button>
-            </a>
+            </Link>
         </div>
         <button id="menuToggle" class="mobile-menu-toggle">
             <svg class="menu-icon" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"
