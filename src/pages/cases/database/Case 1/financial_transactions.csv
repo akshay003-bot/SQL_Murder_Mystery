@@ -1,0 +1,166 @@
+ssn,date,type,amount,message
+123-456-7890,20250105,debit,150.75,Grocery Store Purchase
+234-567-8901,20250106,debit,85.20,Online Shopping - Amazon
+345-678-9012,20250107,credit,5500.00,Monthly Salary
+456-789-0123,20250108,debit,45.50,Gas Station Fuel
+567-890-1234,20250109,debit,1200.00,Rent Payment
+456-759-6387,20250110,credit,250000.00,Thank you for the delivery.
+678-901-2345,20250111,debit,30.00,Coffee Shop
+789-012-3456,20250112,debit,250.00,Utility Bill Payment
+890-123-4567,20250113,credit,200.00,Venmo from friend
+901-234-5678,20250114,debit,75.90,Restaurant Dinner
+012-345-6789,20250115,debit,55.00,Movie Tickets
+456-759-6387,20250118,debit,350.45,Fine Dining - The Grand Bistro
+123-456-7891,20250116,debit,110.40,Clothing Store
+234-567-8902,20250117,credit,4800.00,Monthly Salary
+345-678-9013,20250118,debit,25.00,Bookstore Purchase
+456-789-0124,20250119,debit,600.00,Car Payment
+567-890-1235,20250120,debit,95.30,Electronics Store
+456-759-6387,20250125,credit,500000.00,Thank you for the delivery.
+678-901-2346,20250121,debit,40.25,Pharmacy
+789-012-3457,20250122,debit,180.00,Internet Bill
+890-123-4568,20250123,credit,150.00,Refund from online store
+901-234-5679,20250124,debit,300.00,Airline Ticket
+012-345-6780,20250125,debit,22.75,Lunch Cafe
+123-456-7880,20250201,debit,160.00,Grocery Haul
+234-567-8911,20250202,debit,70.00,Sporting Goods
+345-678-9022,20250203,credit,6200.00,Monthly Salary
+456-789-0133,20250204,debit,88.90,Dinner with friends
+567-890-1244,20250205,debit,1300.00,Rent Payment
+456-759-6387,20250208,credit,15000.00,Thank you for the delivery.
+678-901-2355,20250206,debit,50.00,Subscription Service
+789-012-3466,20250207,debit,275.50,Home Improvement Store
+890-123-4577,20250208,credit,50.00,Cashback Rewards
+901-234-5688,20250209,debit,120.00,Concert Tickets
+012-345-6799,20250210,debit,15.50,Bakery
+456-759-6387,20250215,debit,890.00,Luxury Watch Store
+112-233-4455,20250211,debit,95.00,New Shoes
+223-344-5566,20250212,credit,4500.00,Freelance Payment
+334-455-6677,20250213,debit,42.30,Taxi Fare
+445-566-7788,20250214,debit,200.00,Valentine's Day Dinner
+556-677-8899,20250215,debit,75.00,Flower Shop
+456-759-6387,20250222,credit,350000.00,Thank you for the delivery.
+667-788-9900,20250216,debit,35.80,Art Supplies
+778-899-0011,20250217,debit,150.00,Phone Bill
+889-900-1122,20250218,credit,1000.00,Bonus
+990-011-2233,20250219,debit,500.00,Charity Donation
+001-122-3344,20250220,debit,65.00,Pet Store
+111-222-3330,20250301,debit,140.50,Groceries
+222-333-4441,20250302,debit,80.00,Gasoline
+333-444-5552,20250303,credit,5800.00,Monthly Salary
+444-555-6663,20250304,debit,110.00,New Video Game
+555-666-7774,20250305,debit,1400.00,Rent Payment
+456-759-6387,20250309,credit,450000.00,Thank you for the delivery.
+666-777-8885,20250306,debit,45.00,Streaming Service
+777-888-9996,20250307,debit,220.00,Electricity Bill
+888-999-0007,20250308,credit,75.00,Sold item on eBay
+999-000-1118,20250309,debit,90.00,Theater Show
+000-111-2229,20250310,debit,18.00,Morning Coffee
+456-759-6387,20250315,debit,1250.00,Club Membership Fee
+111-222-3331,20250311,debit,130.00,Department Store
+222-333-4442,20250312,credit,5100.00,Monthly Salary
+333-444-5553,20250313,debit,33.50,Fast Food
+444-555-6664,20250314,debit,700.00,Car Insurance
+555-666-7775,20250315,debit,105.00,Spa Day
+456-759-6387,20250324,credit,200000.00,Thank you for the delivery.
+666-777-8886,20250316,debit,60.00,Gym Membership
+777-888-9997,20250317,debit,190.00,Water Bill
+888-999-0008,20250318,credit,250.00,Consulting Fee
+999-000-1119,20250319,debit,400.00,Weekend Trip
+000-111-2220,20250320,debit,28.00,Takeout Food
+019-283-7465,20250401,debit,170.00,Groceries
+128-374-6501,20250402,debit,75.50,Fuel
+237-465-0192,20250403,credit,6500.00,Monthly Salary
+346-501-9283,20250404,debit,99.99,Online Course
+450-192-8374,20250405,debit,1500.00,Rent Payment
+456-759-6387,20250406,credit,600000.00,Thank you for the delivery.
+501-928-3746,20250406,debit,55.00,Netflix Subscription
+192-837-4650,20250407,debit,310.00,Home Repair
+283-746-5019,20250408,credit,120.00,Birthday Gift
+374-650-1928,20250409,debit,150.00,Music Festival Ticket
+465-019-2837,20250410,debit,21.00,Pizza Delivery
+456-759-6387,20250412,debit,450.00,Charity Gala Ticket
+501-928-3747,20250411,debit,145.00,Shopping Spree
+192-837-4651,20250412,credit,4900.00,Monthly Salary
+283-746-5010,20250413,debit,38.00,Ice Cream Shop
+374-650-1929,20250414,debit,800.00,Health Insurance
+465-019-2838,20250415,debit,115.50,Fancy Dinner
+456-759-6387,20250421,credit,180000.00,Thank you for the delivery.
+501-928-3748,20250416,debit,65.00,Yoga Class
+192-837-4652,20250417,debit,210.00,Gas Bill
+283-746-5011,20250418,credit,300.00,Payment for services
+374-650-1920,20250419,debit,500.00,Hotel Booking
+465-019-2839,20250420,debit,32.00,Sandwich Shop
+555-111-2222,20250501,debit,180.00,Groceries
+666-222-3333,20250502,debit,85.00,Gas
+777-333-4444,20250503,credit,7000.00,Monthly Salary
+888-444-5555,20250504,debit,120.00,New Clothes
+999-555-6666,20250505,debit,1600.00,Rent Payment
+456-759-6387,20250507,credit,250000.00,Thank you for the delivery.
+000-666-7777,20250506,debit,60.00,Internet Subscription
+111-777-8888,20250507,debit,350.00,Plumbing Service
+222-888-9999,20250508,credit,200.00,Freelance Gig
+333-999-0000,20250509,debit,180.00,Play Tickets
+444-000-1111,20250510,debit,25.00,Burger Joint
+456-759-6387,20250514,debit,250.00,Golf Course Fee
+555-111-2223,20250511,debit,160.00,Beauty Salon
+666-222-3334,20250512,credit,5300.00,Monthly Salary
+777-333-4445,20250513,debit,41.00,Chinese Takeout
+888-444-5556,20250514,debit,900.00,Life Insurance Premium
+999-555-6667,20250515,debit,125.00,Anniversary Gift
+456-759-6387,20250523,credit,220000.00,Thank you for the delivery.
+000-666-7778,20250516,debit,70.00,Fitness App Subscription
+111-777-8889,20250517,debit,230.00,Cable TV Bill
+222-888-9990,20250518,credit,400.00,Artwork Sale
+333-999-0001,20250519,debit,600.00,Flight Ticket
+444-000-1112,20250520,debit,35.00,Sushi Restaurant
+121-343-5656,20250601,debit,190.00,Groceries
+232-454-6767,20250602,debit,90.00,Fuel
+343-565-7878,20250603,credit,7200.00,Monthly Salary
+454-676-8989,20250604,debit,130.00,Gadget Store
+565-787-9090,20250605,debit,1700.00,Rent Payment
+456-759-6387,20250608,credit,300000.00,Thank you for the delivery.
+676-898-0101,20250606,debit,65.00,Music Streaming
+787-909-1212,20250607,debit,400.00,Car Repair
+898-010-2323,20250608,credit,300.00,Stock Dividend
+909-121-3434,20250609,debit,200.00,Sports Game Ticket
+010-232-4545,20250610,debit,28.00,Diner Breakfast
+456-759-6387,20250616,debit,150.00,Wine Tasting Event
+121-343-5657,20250611,debit,175.00,Home Decor
+232-454-6768,20250612,credit,5500.00,Monthly Salary
+343-565-7879,20250613,debit,45.00,Mexican Food
+454-676-8980,20250614,debit,1000.00,Dental Checkup
+565-787-9091,20250615,debit,135.00,New Book Collection
+456-759-6387,20250625,credit,55000.00,Thank you for the delivery.
+676-898-0102,20250616,debit,75.00,Tennis Club Fee
+787-909-1213,20250617,debit,250.00,Mobile Bill
+898-010-2324,20250618,credit,500.00,Commission
+909-121-3435,20250619,debit,700.00,Vacation Rental Deposit
+010-232-4546,20250620,debit,40.00,Italian Restaurant
+789-012-3450,20250701,debit,200.00,Groceries
+890-123-4561,20250702,debit,95.00,Gas
+901-234-5672,20250703,credit,8000.00,Monthly Salary
+012-345-6783,20250704,debit,150.00,Summer Clothes
+123-456-7894,20250705,debit,1800.00,Rent Payment
+456-759-6387,20250709,credit,400000.00,Thank you for the delivery.
+234-567-8905,20250706,debit,70.00,Movie Subscription
+345-678-9016,20250707,debit,450.00,Gardening Supplies
+456-789-0127,20250708,credit,400.00,Photography Contest Prize
+567-890-1238,20250709,debit,220.00,Amusement Park
+678-901-2349,20250710,debit,30.00,Ice Cream
+456-759-6387,20250717,debit,3000.00,Art Auction Purchase
+789-012-3451,20250711,debit,190.00,New Handbag
+890-123-4562,20250712,credit,6000.00,Monthly Salary
+901-234-5673,20250713,debit,50.00,Thai Food
+012-345-6784,20250714,debit,1100.00,Vet Bill
+123-456-7895,20250715,debit,145.00,Concert Merchandise
+456-759-6387,20250726,credit,95000.00,Thank you for the delivery.
+234-567-8906,20250716,debit,80.00,Sailing Club Dues
+345-678-9017,20250717,debit,270.00,Property Tax
+456-789-0128,20250718,credit,600.00,Tutoring Payment
+567-890-1239,20250719,debit,800.00,Short Holiday
+678-901-2340,20250720,debit,45.00,Steakhouse
+123-456-7890,20250801,debit,155.00,Grocery Shopping
+456-759-6387,20250805,credit,120000.00,Thank you for the delivery.
+456-759-6387,20250815,debit,5000.00,Unexplained Cash Withdrawal
+456-759-6387,20250822,credit,150000.00,Thank you for the delivery.

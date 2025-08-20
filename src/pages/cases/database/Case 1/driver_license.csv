@@ -1,0 +1,163 @@
+id,age,height,eye_colour,hair_colour,gender,plate_number,car_make,car_model
+SFL36856,40,178,Brown,Black,Male,MH12 J 9876,Honda,City
+SFL67890,33,175,Black,Black,Male,DL3C A 1234,Maruti,Swift
+SFL11223,47,180,Brown,Salt & Pepper,Male,UP14 B 5678,Hyundai,Creta
+SFL44556,25,172,Hazel,Brown,Male,TN07 C 9012,Ford,EcoSport
+SFL77889,36,182,Brown,Black,Male,KA19 D 3456,Toyota,Innova
+SFL99001,30,170,Green,Blonde,Male,WB02 E 7890,Volkswagen,Polo
+SFL22334,43,179,Blue,Brown,Male,GJ01 F 1122,Tata,Nexon
+SFL55667,27,176,Brown,Black,Male,RJ14 G 3344,Mahindra,XUV500
+SFL88990,50,168,Black,Grey,Male,PB10 H 5566,Kia,Seltos
+SFL11234,22,181,Brown,Black,Male,HR26 I 7788,Renault,Duster
+SFL56789,37,165,Brown,Black,Female,CH01 J 9900,Skoda,Rapid
+SFL01234,31,163,Black,Black,Female,AP28 K 1111,Nissan,Magnite
+SFL56780,44,168,Brown,Brown,Female,TS09 L 2222,MG,Hector
+SFL12309,23,160,Hazel,Red,Female,KL18 M 3333,Jeep,Compass
+SFL87654,34,170,Brown,Black,Female,PY01 N 4444,Fiat,Punto
+SFL98321,20,164,Brown,Black,Female,DL01 T 9999,Tata,Tiago
+SFL32109,28,166,Green,Blonde,Female,AS01 P 5555,Datsun,Go
+SFL87650,41,162,Blue,Brown,Female,GA08 Q 6666,Honda,Amaze
+SFL43215,25,169,Brown,Black,Female,MN01 R 7777,Maruti,Baleno
+SFL98765,48,158,Black,Grey,Female,MZ01 S 8888,Hyundai,i20
+SFL10987,20,164,Brown,Black,Female,NL01 T 9999,Tata,Tiago
+SFL65432,39,177,Brown,Black,Male,TR01 U 1010,Mahindra,Thar
+SFL10988,32,174,Black,Black,Male,ML05 V 2020,Toyota,Fortuner
+SFL76543,45,181,Brown,Salt & Pepper,Male,AR01 W 3030,Ford,Endeavour
+SFL21098,24,173,Hazel,Brown,Male,SK01 X 4040,Volkswagen,Vento
+SFL87651,35,183,Brown,Black,Male,JH01 Y 5050,Kia,Sonet
+SFL32106,29,171,Green,Blonde,Male,OD02 Z 6060,Renault,Kiger
+SFL87652,42,180,Blue,Brown,Male,CG04 A 7070,Skoda,Octavia
+SFL43217,26,178,Brown,Black,Male,UK07 B 8080,Nissan,Kicks
+SFL98763,49,169,Black,Grey,Male,HP17 C 9090,MG,Gloster
+SFL10985,21,182,Brown,Black,Male,LA01 D 1212,Jeep,Wrangler
+SFL65430,36,166,Brown,Black,Female,DN09 E 2323,Hyundai,Venue
+SFL10986,30,164,Black,Black,Female,DD03 F 3434,Tata,Harrier
+SFL76541,42,169,Brown,Brown,Female,AN01 G 4545,Mahindra,Scorpio
+SFL21096,22,161,Hazel,Red,Female,LD01 H 5656,Toyota,Glanza
+SFL87653,33,171,Brown,Black,Female,MP04 I 6767,Ford,Freestyle
+SFL32104,27,167,Green,Blonde,Female,BR01 J 7878,Volkswagen,Tiguan
+SFL87654,40,163,Blue,Brown,Female,OR02 K 8989,Kia,Carnival
+SFL43219,24,170,Brown,Black,Female,BH01 L 9090,Renault,Triber
+SFL98761,47,159,Black,Grey,Female,KA19 M 1011,Skoda,Kushaq
+SFL10983,19,165,Brown,Black,Female,MH02 N 2021,Nissan,Juke
+SFL11122,38,179,Brown,Black,Male,DL04 P 3031,MG,Astor
+SFL33445,31,176,Black,Black,Male,UP16 Q 4041,Jeep,Meridian
+SFL66778,44,182,Brown,Salt & Pepper,Male,TN09 R 5051,Maruti,Ciaz
+SFL99001,23,174,Hazel,Brown,Male,WB04 S 6061,Hyundai,Verna
+SFL22334,34,184,Brown,Black,Male,GJ06 T 7071,Honda,Civic
+SFL55667,28,172,Green,Blonde,Male,RJ18 U 8081,Toyota,Camry
+SFL88990,41,181,Blue,Brown,Male,PB12 V 9091,Skoda,Superb
+SFL11235,26,179,Brown,Black,Male,HR29 W 1012,Volkswagen,Passat
+SFL44568,48,170,Black,Grey,Male,CH03 X 2022,Tata,Safari
+SFL77891,20,183,Brown,Black,Male,AP30 Y 3032,Mahindra,Alturas G4
+SFL11123,35,167,Brown,Black,Female,TS11 Z 4042,Ford,Mustang
+SFL33446,29,165,Black,Black,Female,KL20 A 5052,Audi,A4
+SFL66779,42,170,Brown,Brown,Female,PY02 B 6062,BMW,3 Series
+SFL99002,21,162,Hazel,Red,Female,AS03 C 7072,Mercedes-Benz,C-Class
+SFL22335,32,172,Brown,Black,Female,GA09 D 8082,Jaguar,XE
+SFL55668,26,168,Green,Blonde,Female,MN02 E 9092,Volvo,S60
+SFL88991,39,164,Blue,Brown,Female,MZ02 F 1013,Lexus,ES
+SFL11236,24,171,Brown,Black,Female,NL02 G 2023,Audi,Q3
+SFL44569,46,160,Black,Grey,Female,TR02 H 3033,BMW,X1
+SFL77892,18,166,Brown,Black,Female,ML06 I 4043,Mercedes-Benz,GLA
+SFL12121,40,180,Brown,Black,Male,AR02 J 5053,Jaguar,F-Pace
+SFL34343,33,177,Black,Black,Male,SK02 K 6063,Volvo,XC40
+SFL56565,46,183,Brown,Salt & Pepper,Male,JH02 L 7073,Lexus,NX
+SFL78787,25,175,Hazel,Brown,Male,OD03 M 8083,Audi,A6
+SFL90909,37,185,Brown,Black,Male,CG05 N 9093,BMW,5 Series
+SFL13131,30,173,Green,Blonde,Male,UK08 P 1014,Mercedes-Benz,E-Class
+SFL35353,42,182,Blue,Brown,Male,HP18 Q 2024,Jaguar,XF
+SFL57575,27,180,Brown,Black,Male,LA02 R 3034,Volvo,S90
+SFL79797,49,171,Black,Grey,Male,DN10 S 4044,Lexus,LS
+SFL91919,22,184,Brown,Black,Male,DD04 T 5054,Audi,Q5
+SFL12122,38,168,Brown,Black,Female,AN02 U 6064,BMW,X3
+SFL34344,31,166,Black,Black,Female,LD02 V 7074,Mercedes-Benz,GLC
+SFL56566,44,171,Brown,Brown,Female,MP05 W 8084,Jaguar,I-Pace
+SFL78788,23,163,Hazel,Red,Female,BR02 X 9094,Volvo,XC60
+SFL90900,35,173,Brown,Black,Female,OR03 Y 1015,Lexus,RX
+SFL13132,28,169,Green,Blonde,Female,BH02 Z 2025,Audi,Q7
+SFL35354,40,165,Blue,Brown,Female,KA18 A 3035,BMW,X5
+SFL57576,25,172,Brown,Black,Female,MH03 B 4045,Mercedes-Benz,GLE
+SFL79798,47,161,Black,Grey,Female,DL05 C 5055,Volvo,XC90
+SFL91910,20,167,Brown,Black,Female,UP17 D 6065,Lexus,LX
+SFL24680,39,181,Brown,Black,Male,TN10 E 7075,Porsche,Cayenne
+SFL13579,32,178,Black,Black,Male,WB05 F 8085,Land Rover,Range Rover Sport
+SFL35791,45,184,Brown,Salt & Pepper,Male,GJ07 G 9095,Maserati,Levante
+SFL57913,24,176,Hazel,Brown,Male,RJ19 H 1016,Bentley,Bentayga
+SFL79135,35,186,Brown,Black,Male,PB13 I 2026,Lamborghini,Urus
+SFL91357,29,174,Green,Blonde,Male,HR30 J 3036,Rolls-Royce,Cullinan
+SFL13570,42,183,Blue,Brown,Male,CH04 K 4046,Ferrari,Purosangue
+SFL35792,26,181,Brown,Black,Male,AP31 L 5056,Aston Martin,DBX
+SFL57914,49,172,Black,Grey,Male,TS12 M 6066,Porsche,Macan
+SFL79136,21,185,Brown,Black,Male,KL21 N 7076,Land Rover,Defender
+SFL24681,37,169,Brown,Black,Female,PY03 P 8086,Maserati,Grecale
+SFL13578,30,167,Black,Black,Female,AS04 Q 9096,Bentley,Continental GT
+SFL35793,43,172,Brown,Brown,Female,GA10 R 1017,Lamborghini,Huracan
+SFL57915,22,164,Hazel,Red,Female,MN03 S 2027,Rolls-Royce,Ghost
+SFL79137,33,174,Brown,Black,Female,MZ03 T 3037,Ferrari,296 GTB
+SFL91359,27,170,Green,Blonde,Female,NL03 U 4047,Aston Martin,Vantage
+SFL13571,40,166,Blue,Brown,Female,TR03 V 5057,Porsche,911
+SFL35794,24,173,Brown,Black,Female,ML07 W 6067,Land Rover,Range Rover
+SFL57916,47,162,Black,Grey,Female,AR03 X 7077,Maserati,MC20
+SFL79138,19,168,Brown,Black,Female,SK03 Y 8087,Bentley,Flying Spur
+SFL98712,38,182,Brown,Black,Male,JH03 Z 9097,Lamborghini,Aventador
+SFL34587,31,179,Black,Black,Male,OD04 A 1018,Rolls-Royce,Phantom
+SFL12398,44,185,Brown,Salt & Pepper,Male,CG06 B 2028,Ferrari,SF90 Stradale
+SFL67843,23,177,Hazel,Brown,Male,UK09 C 3038,Aston Martin,DBS
+SFL89012,34,187,Brown,Black,Male,HP19 D 4048,Porsche,Taycan
+SFL45678,28,175,Green,Blonde,Male,LA03 E 5058,Tesla,Model S
+SFL23456,41,184,Blue,Brown,Male,DN11 F 6068,Audi,e-tron GT
+SFL87654,26,182,Brown,Black,Male,DD05 G 7078,Mercedes-Benz,EQS
+SFL09876,48,173,Black,Grey,Male,AN03 H 8088,BMW,iX
+SFL65432,20,186,Brown,Black,Male,LD03 I 9098,Jaguar,I-Pace
+SFL98713,35,170,Brown,Black,Female,MP06 J 1019,Tesla,Model 3
+SFL34588,29,168,Black,Black,Female,BR03 K 2029,Audi,Q4 e-tron
+SFL12399,42,173,Brown,Brown,Female,OR04 L 3039,Mercedes-Benz,EQB
+SFL67844,21,165,Hazel,Red,Female,BH03 M 4049,BMW,i4
+SFL89013,32,175,Brown,Black,Female,KA21 N 5059,Tesla,Model X
+SFL45679,26,171,Green,Blonde,Female,MH04 P 6069,Audi,Q8 e-tron
+SFL23457,39,167,Blue,Brown,Female,DL06 Q 7079,Mercedes-Benz,EQE
+SFL87655,24,174,Brown,Black,Female,UP18 R 8089,BMW,i7
+SFL09877,46,163,Black,Grey,Female,TN11 S 9099,Tesla,Model Y
+SFL65433,18,169,Brown,Black,Female,WB06 T 1010,Audi,A3
+SFL55555,40,183,Brown,Black,Male,GJ08 U 2020,BMW,2 Series
+SFL66666,33,180,Black,Black,Male,RJ20 V 3030,Mercedes-Benz,A-Class
+SFL77777,47,186,Brown,Salt & Pepper,Male,PB14 W 4040,Jaguar,E-Pace
+SFL88888,25,178,Hazel,Brown,Male,HR31 X 5050,Volvo,XC40 Recharge
+SFL99999,36,188,Brown,Black,Male,CH05 Y 6060,Lexus,UX
+SFL00000,30,176,Green,Blonde,Male,AP32 Z 7070,Audi,Q2
+SFL11111,43,185,Blue,Brown,Male,TS13 A 8080,BMW,X2
+SFL22222,27,183,Brown,Black,Male,KL22 B 9090,Mercedes-Benz,GLB
+SFL33333,50,174,Black,Grey,Male,PY04 C 1011,Jaguar,F-Type
+SFL44444,22,187,Brown,Black,Male,AS05 D 2021,Porsche,718 Cayman
+SFL55556,37,171,Brown,Black,Female,GA11 E 3031,Alpine,A110
+SFL66667,31,169,Black,Black,Female,MN04 F 4041,Toyota,Supra
+SFL77778,44,174,Brown,Brown,Female,MZ04 G 5051,Nissan,Z
+SFL88889,23,166,Hazel,Red,Female,NL04 H 6061,Lotus,Emira
+SFL99990,34,176,Brown,Black,Female,TR04 I 7071,Chevrolet,Corvette
+SFL00001,28,172,Green,Blonde,Female,ML08 J 8081,Ford,Mustang Shelby GT500
+SFL11112,41,168,Blue,Brown,Female,AR04 K 9091,Dodge,Challenger Hellcat
+SFL22223,25,175,Brown,Black,Female,SK04 L 1012,Chevrolet,Camaro ZL1
+SFL33334,48,164,Black,Grey,Female,JH04 M 2022,Acura,NSX
+SFL44445,20,170,Brown,Black,Female,OD05 N 3032,Nissan,GT-R
+SFL78901,39,184,Brown,Black,Male,CG07 P 4042,Lexus,LC 500
+SFL23451,32,181,Black,Black,Male,UK10 Q 5052,BMW,M4
+SFL67892,45,187,Brown,Salt & Pepper,Male,HP20 R 6062,Mercedes-AMG,C63
+SFL12343,24,179,Hazel,Brown,Male,LA04 S 7072,Audi,RS5
+SFL56784,35,189,Brown,Black,Male,DN12 T 8082,Alfa Romeo,Giulia Quadrifoglio
+SFL01235,29,177,Green,Blonde,Male,DD06 U 9092,Cadillac,CT5-V Blackwing
+SFL45676,42,186,Blue,Brown,Male,AN04 V 1013,Maserati,Ghibli Trofeo
+SFL89017,26,184,Brown,Black,Male,LD04 W 2023,Porsche,Panamera Turbo S
+SFL34568,49,175,Black,Grey,Male,MP07 X 3033,BMW,M5 Competition
+SFL78909,21,188,Brown,Black,Male,BR04 Y 4043,Mercedes-AMG,E63 S
+SFL78902,36,172,Brown,Black,Female,OR05 Z 5053,Audi,RS7
+SFL23452,30,170,Black,Black,Female,BH04 A 6063,Porsche,Taycan Turbo S
+SFL67893,42,175,Brown,Brown,Female,KA22 B 7073,Tesla,Model S Plaid
+SFL12344,22,167,Hazel,Red,Female,MH05 C 8083,Lucid,Air Dream Edition
+SFL56785,33,177,Brown,Black,Female,DL07 D 9093,Rimac,Nevera
+SFL01236,27,173,Green,Blonde,Female,UP19 E 1014,Pininfarina,Battista
+SFL45677,40,169,Blue,Brown,Female,TN12 F 2024,Bugatti,Chiron
+SFL89018,24,176,Brown,Black,Female,WB07 G 3034,Koenigsegg,Jesko
+SFL34569,47,165,Black,Grey,Female,GJ09 H 4044,Pagani,Huayra
+SFL78900,19,171,Brown,Black,Female,RJ21 I 5054,McLaren,720S
+SFL56489,36,165,Brown,Black,Female,KA18 P 4321,Maruti,800

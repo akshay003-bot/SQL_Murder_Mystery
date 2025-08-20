@@ -1,0 +1,201 @@
+person_id,patient_id,name,guardian_name,admit_date,case_description,concerned_doctor,status
+100102,PAT_003,John Smith,Jane Smith,20250801,Routine check-up and blood work.,Enzo Dunkins,Discharged
+100112,PAT_004,Mary Rodriguez,Juan Rodriguez,20250622,Treatment for a fractured arm after a fall.,Oliver Smith,Discharged
+100125,PAT_005,Matthew Martin,Laura Martin,20250510,Observation for persistent migraines. MRI scheduled.,Arthur Dwayne,Under Treatment
+100136,PAT_006,Betty Walker,N/A,20250418,Pneumonia. Responded well to antibiotics.,Enzo Dunkins,Discharged
+100147,PAT_007,Ronald Carter,Nancy Carter,20250305,Cardiac arrhythmia. Pacemaker implantation successful.,Arthur Dwayne,Discharged
+100158,PAT_008,Angela Stewart,N/A,20250214,Food poisoning. Admitted for dehydration.,Oliver Smith,Discharged
+100169,PAT_009,Joshua Richardson,Maria Richardson,20250102,Suffered a concussion during a sports event. Kept for observation.,Enzo Dunkins,Discharged
+100180,PAT_010,Kathleen Sanders,N/A,20241211,Gallbladder surgery. Smooth recovery.,Oliver Smith,Discharged
+100191,PAT_011,Anna Patterson,Mark Patterson,20241130,Severe allergic reaction. Stabilized and discharged with an EpiPen.,Arthur Dwayne,Discharged
+100202,PAT_012,Willie Diaz,N/A,20241025,Chronic back pain management.,Enzo Dunkins,Under Treatment
+100213,PAT_013,Beverly Jordan,N/A,20240919,Hip replacement surgery. Currently in physical therapy.,Oliver Smith,Under Treatment
+100224,PAT_014,Bobby Gomez,Maria Gomez,20240808,Treatment for a severe burn on the arm.,Arthur Dwayne,Discharged
+100235,PAT_015,Jean Crawford,N/A,20240701,Diagnosed with Type 2 diabetes. Admitted for initial stabilization and education.,Enzo Dunkins,Discharged
+346865,PAT_016,Peter Fairway,Mary Parkinson,20240615,Admitted for observation after a car accident. Minor injuries.,Oliver Smith,Discharged
+200101,PAT_017,Emily White,N/A,20240105,Influenza symptoms, treated and released.,Enzo Dunkins,Discharged
+200102,PAT_018,James Green,Sarah Green,20240108,Minor surgery for an ingrown toenail.,Oliver Smith,Discharged
+326898,PAT_001,Susanne Parkinson,Peter Parkinson,20250715,Admitted with severe respiratory distress. Died during surgery.,Arthur Dwayne,Deceased
+471879,PAT_002,Michael Moore,N/A,20250820,Underwent emergency appendectomy. Currently recovering in post-op.,Oliver Smith,Under Treatment
+200103,PAT_019,Linda Black,N/A,20240112,Asthma attack, stabilized and monitored.,Arthur Dwayne,Discharged
+200104,PAT_020,Robert Hill,N/A,20240115,Acute bronchitis, prescribed antibiotics.,Enzo Dunkins,Discharged
+200105,PAT_021,Patricia Scott,David Scott,20240119,Knee replacement surgery.,Oliver Smith,Under Treatment
+200106,PAT_022,David Adams,N/A,20240122,Stomach ulcer, undergoing treatment.,Arthur Dwayne,Under Treatment
+200107,PAT_023,Barbara Baker,N/A,20240126,Cataract surgery on left eye.,Oliver Smith,Discharged
+200108,PAT_024,William Nelson,Susan Nelson,20240130,Heart palpitations, tests ongoing.,Arthur Dwayne,Under Treatment
+200109,PAT_025,Richard Hall,N/A,20240202,Kidney stone removal.,Enzo Dunkins,Discharged
+200110,PAT_026,Susan Wright,N/A,20240205,Treatment for severe dermatitis.,Oliver Smith,Discharged
+200111,PAT_027,Joseph King,Mary King,20240209,Follow-up appointment for hypertension.,Arthur Dwayne,Discharged
+200112,PAT_028,Jessica Turner,N/A,20240212,Suspected appendicitis, tests were negative.,Enzo Dunkins,Discharged
+200113,PAT_029,Thomas Phillips,N/A,20240216,Dislocated shoulder, reset and in a sling.,Oliver Smith,Discharged
+200114,PAT_030,Karen Campbell,Robert Campbell,20240220,Chemotherapy session for breast cancer.,Arthur Dwayne,Under Treatment
+200115,PAT_031,Christopher Parker,N/A,20240223,Treatment for a spider bite.,Enzo Dunkins,Discharged
+200116,PAT_032,Nancy Evans,N/A,20240227,Cardiac stress test, results pending.,Arthur Dwayne,Under Treatment
+200117,PAT_033,Daniel Edwards,Laura Edwards,20240301,Tonsillectomy.,Oliver Smith,Discharged
+200118,PAT_034,Lisa Collins,N/A,20240304,Vertigo, prescribed medication.,Enzo Dunkins,Discharged
+200119,PAT_035,Paul Stewart,N/A,20240308,Colonoscopy, routine screening.,Arthur Dwayne,Discharged
+200120,PAT_036,Mark Sanchez,Linda Sanchez,20240311,Broken leg from a skiing accident.,Oliver Smith,Under Treatment
+200121,PAT_037,Sandra Morris,N/A,20240315,Severe ear infection.,Enzo Dunkins,Discharged
+200122,PAT_038,Donald Rogers,N/A,20240318,Blood clot in leg, undergoing anticoagulant therapy.,Arthur Dwayne,Under Treatment
+200123,PAT_039,Kimberly Reed,Steven Reed,20240322,Wisdom teeth removal.,Oliver Smith,Discharged
+200124,PAT_040,George Cook,N/A,20240325,Gout flare-up, managed with medication.,Enzo Dunkins,Discharged
+200125,PAT_041,Steven Morgan,N/A,20240329,Hernia repair surgery.,Oliver Smith,Discharged
+200126,PAT_042,Edward Bell,Carol Bell,20240401,Monitoring irregular heartbeat.,Arthur Dwayne,Under Treatment
+200127,PAT_043,Brian Murphy,N/A,20240405,Allergy testing.,Enzo Dunkins,Discharged
+200128,PAT_044,Sharon Bailey,N/A,20240408,Carpal tunnel surgery.,Oliver Smith,Discharged
+200129,PAT_045,Kevin Rivera,Maria Rivera,20240412,Treatment for shingles.,Enzo Dunkins,Discharged
+200130,PAT_046,Jason Cooper,N/A,20240415,Sleep study for apnea.,Arthur Dwayne,Under Treatment
+200131,PAT_047,Michelle Richardson,N/A,20240419,Physical therapy for a back injury.,Oliver Smith,Under Treatment
+200132,PAT_048,Timothy Cox,Brenda Cox,20240422,Severe dehydration, admitted for IV fluids.,Enzo Dunkins,Discharged
+200133,PAT_049,Sarah Howard,N/A,20240426,Laparoscopic surgery for endometriosis.,Oliver Smith,Discharged
+200134,PAT_050,Larry Ward,N/A,20240429,Complications from a previous surgery, condition is critical.,Arthur Dwayne,Deceased
+200135,PAT_051,Cynthia Torres,Jose Torres,20240503,Treatment for a severe skin rash.,Enzo Dunkins,Discharged
+200136,PAT_052,Justin Peterson,N/A,20240506,Torn ACL, awaiting surgery.,Oliver Smith,Under Treatment
+200137,PAT_053,Scott Gray,N/A,20240510,Angioplasty procedure successful.,Arthur Dwayne,Discharged
+200138,PAT_054,Brandon James,Laura James,20240513,Meningitis, currently in intensive care.,Enzo Dunkins,Under Treatment
+200139,PAT_055,Rebecca Watson,N/A,20240517,Thyroid biopsy, results pending.,Oliver Smith,Under Treatment
+200140,PAT_056,Frank Brooks,N/A,20240520,Stroke, undergoing rehabilitation.,Arthur Dwayne,Under Treatment
+200141,PAT_057,Amanda Kelly,Robert Kelly,20240524,Treatment for Lyme disease.,Enzo Dunkins,Discharged
+200142,PAT_058,Gregory Sanders,N/A,20240528,Coronary bypass surgery.,Arthur Dwayne,Under Treatment
+200143,PAT_059,Melissa Price,N/A,20240531,Removal of a benign tumor.,Oliver Smith,Discharged
+200144,PAT_060,Joshua Bennett,Karen Bennett,20240603,Treatment for a dog bite, rabies shots administered.,Enzo Dunkins,Discharged
+200145,PAT_061,Laura Wood,N/A,20240607,Severe case of pneumonia, patient is on a ventilator.,Arthur Dwayne,Deceased
+200146,PAT_062,Jerry Barnes,N/A,20240610,Cataract surgery on right eye.,Oliver Smith,Discharged
+200147,PAT_063,Dennis Ross,Helen Ross,20240614,Routine colonoscopy, polyps removed.,Enzo Dunkins,Discharged
+200148,PAT_064,Maria Henderson,N/A,20240617,Treatment for a urinary tract infection.,Oliver Smith,Discharged
+200149,PAT_065,Walter Coleman,N/A,20240621,Heart valve replacement surgery.,Arthur Dwayne,Under Treatment
+200150,PAT_066,Patrick Perry,Debra Perry,20240624,Broken wrist, cast applied.,Oliver Smith,Discharged
+200151,PAT_067,Peter Powell,N/A,20240628,Treatment for a severe sunburn.,Enzo Dunkins,Discharged
+200152,PAT_068,Harold Long,N/A,20240701,Diagnosed with early-stage prostate cancer, discussing treatment options.,Arthur Dwayne,Under Treatment
+200153,PAT_069,Douglas Patterson,Shirley Patterson,20240705,Rotator cuff surgery.,Oliver Smith,Discharged
+200154,PAT_070,Henry Hughes,N/A,20240708,Treatment for vertigo and nausea.,Enzo Dunkins,Discharged
+200155,PAT_071,Carl Washington,N/A,20240712,Admitted for alcohol poisoning, now stable.,Oliver Smith,Discharged
+200156,PAT_072,Arthur Butler,Frances Butler,20240715,Triple bypass surgery, recovery is slow.,Arthur Dwayne,Under Treatment
+200157,PAT_073,Ryan Simmons,N/A,20240719,Treatment for a jellyfish sting.,Enzo Dunkins,Discharged
+200158,PAT_074,Juan Foster,N/A,20240722,Kidney transplant, searching for a donor.,Oliver Smith,Under Treatment
+200159,PAT_075,Willie Gonzales,Kelly Gonzales,20240726,Treatment for a severe migraine.,Enzo Dunkins,Discharged
+200160,PAT_076,Carlos Bryant,N/A,20240729,Heart attack, stabilized in the ICU.,Arthur Dwayne,Under Treatment
+200161,PAT_077,Louis Alexander,N/A,20240802,Surgery to remove a brain tumor.,Oliver Smith,Under Treatment
+200162,PAT_078,Billy Russell,Teresa Russell,20240805,Treatment for a scorpion sting.,Enzo Dunkins,Discharged
+200163,PAT_079,Albert Griffin,N/A,20240809,Admitted for malnutrition and dehydration.,Oliver Smith,Under Treatment
+200164,PAT_080,Wayne Diaz,N/A,20240812,Sepsis, condition is critical.,Arthur Dwayne,Deceased
+200165,PAT_081,Randy Hayes,Christina Hayes,20240816,Treatment for a dislocated hip.,Oliver Smith,Discharged
+200166,PAT_082,Eugene Myers,N/A,20240819,Chemotherapy session for lung cancer.,Enzo Dunkins,Under Treatment
+200167,PAT_083,Vincent Ford,N/A,20240823,Aortic aneurysm repair, high-risk surgery.,Arthur Dwayne,Under Treatment
+200168,PAT_084,Russell Hamilton,Beverly Hamilton,20240826,Treatment for a broken nose.,Oliver Smith,Discharged
+200169,PAT_085,Lawrence Graham,N/A,20240830,Foodborne illness outbreak, several patients admitted.,Enzo Dunkins,Discharged
+200170,PAT_086,Philip Sullivan,N/A,20240902,Admitted for severe depression and observation.,Oliver Smith,Under Treatment
+200171,PAT_087,Bobby Wallace,Denise Wallace,20240906,Heart failure, palliative care initiated.,Arthur Dwayne,Deceased
+200172,PAT_088,Johnny Woods,N/A,20240909,Treatment for a snakebite.,Enzo Dunkins,Discharged
+200173,PAT_089,Bradley Cole,N/A,20240913,Gallbladder inflammation, scheduled for surgery.,Oliver Smith,Under Treatment
+200174,PAT_090,Alan West,Tammy West,20240916,Cardiac catheterization procedure.,Arthur Dwayne,Discharged
+200175,PAT_091,Samuel Jordan,N/A,20240920,Treatment for a severe case of poison ivy.,Enzo Dunkins,Discharged
+200176,PAT_092,Clarence Owens,N/A,20240923,Admitted for a diabetic coma, now stable.,Oliver Smith,Under Treatment
+200177,PAT_093,Roger Reynolds,Irene Reynolds,20240927,Lung transplant, recovery is difficult.,Arthur Dwayne,Under Treatment
+200178,PAT_094,Andrea Fisher,N/A,20240930,Treatment for a bee sting allergy.,Enzo Dunkins,Discharged
+200179,PAT_095,Joyce Ellis,N/A,20241004,Admitted for exhaustion and burnout.,Oliver Smith,Discharged
+200180,PAT_096,Joan Harrison,Russell Harrison,20241007,Aneurysm rupture, patient did not survive.,Arthur Dwayne,Deceased
+200181,PAT_097,Evelyn Gibson,N/A,20241011,Treatment for a fractured rib.,Oliver Smith,Discharged
+200182,PAT_098,Jean Mcdonald,N/A,20241014,Admitted for an anxiety attack.,Enzo Dunkins,Discharged
+200183,PAT_099,Victoria Cruz,Lawrence Cruz,20241018,Admitted for complications during pregnancy, high-risk.,Oliver Smith,Under Treatment
+200184,PAT_100,Cheryl Marshall,N/A,20241021,Heart murmur detected, further tests needed.,Arthur Dwayne,Under Treatment
+200185,PAT_101,Mildred Ortiz,N/A,20241025,Treatment for a sprained ankle.,Oliver Smith,Discharged
+200186,PAT_102,Gloria Gomez,Philip Gomez,20241028,Admitted for a severe asthma episode.,Enzo Dunkins,Discharged
+200187,PAT_103,Janice Murray,N/A,20241101,Admitted with a high fever of unknown origin.,Oliver Smith,Under Treatment
+200188,PAT_104,Christina Freeman,N/A,20241104,Underwent a successful kidney donation.,Arthur Dwayne,Discharged
+200189,PAT_105,Marie Wells,Bradley Wells,20241108,Treatment for a concussion after a fall.,Enzo Dunkins,Discharged
+200190,PAT_106,Beverly Webb,N/A,20241111,Admitted for severe abdominal pain, diagnosis pending.,Oliver Smith,Under Treatment
+200191,PAT_107,Denise Simpson,N/A,20241115,Cardiac arrest in the ER, resuscitation was unsuccessful.,Arthur Dwayne,Deceased
+200192,PAT_108,Tammy Stevens,Roger Stevens,20241118,Treatment for a broken collarbone.,Oliver Smith,Discharged
+200193,PAT_109,Irene Tucker,N/A,20241122,Admitted for observation after a fainting spell.,Enzo Dunkins,Discharged
+200194,PAT_110,Jane Porter,N/A,20241125,Scheduled C-section, mother and baby are healthy.,Oliver Smith,Discharged
+200195,PAT_111,Lori Hunter,Clarence Hunter,20241129,Admitted for acute pancreatitis.,Arthur Dwayne,Under Treatment
+200196,PAT_112,Rachel Hicks,N/A,20241202,Treatment for a dislocated knee.,Oliver Smith,Discharged
+200197,PAT_113,Marilyn Crawford,N/A,20241206,Admitted for severe food poisoning.,Enzo Dunkins,Discharged
+200198,PAT_114,Andrea Henry,Roger Henry,20241209,Patient suffered a massive heart attack and could not be revived.,Arthur Dwayne,Deceased
+200199,PAT_115,Joyce Boyd,N/A,20241213,Treatment for a fractured hip.,Oliver Smith,Under Treatment
+200200,PAT_116,Joan Mason,N/A,20241216,Admitted for a severe case of the flu.,Enzo Dunkins,Discharged
+200201,PAT_117,Evelyn Morales,Mildred Morales,20241220,Admitted for chest pains, monitoring for heart issues.,Arthur Dwayne,Under Treatment
+200202,PAT_118,Jean Kennedy,N/A,20241223,Treatment for a broken toe.,Oliver Smith,Discharged
+200203,PAT_119,Victoria Warren,N/A,20241227,Admitted for a panic attack.,Enzo Dunkins,Discharged
+200204,PAT_120,Cheryl Ford,Albert Ford,20241230,Patient with a terminal illness, moved to hospice care.,Arthur Dwayne,Deceased
+200205,PAT_121,Mildred Hamilton,N/A,20250103,Treatment for a sprained wrist.,Oliver Smith,Discharged
+200206,PAT_122,Gloria Graham,N/A,20250106,Admitted for a severe allergic reaction to medication.,Enzo Dunkins,Discharged
+200207,PAT_123,Janice Sullivan,Randy Sullivan,20250110,Admitted for observation after a minor stroke.,Arthur Dwayne,Under Treatment
+200208,PAT_124,Christina Wallace,N/A,20250113,Treatment for a broken ankle.,Oliver Smith,Discharged
+200209,PAT_125,Marie Woods,N/A,20250117,Admitted for severe dehydration.,Enzo Dunkins,Discharged
+200210,PAT_126,Beverly Cole,Vincent Woods,20250120,Patient passed away from complications of pneumonia.,Arthur Dwayne,Deceased
+200211,PAT_127,Denise West,N/A,20250124,Treatment for a fractured arm.,Oliver Smith,Discharged
+200212,PAT_128,Tammy Jordan,N/A,20250127,Admitted for a severe case of bronchitis.,Enzo Dunkins,Discharged
+200213,PAT_129,Irene Owens,Carlos Hayes,20250131,Admitted for chest pains, tests ongoing.,Arthur Dwayne,Under Treatment
+200214,PAT_130,Jane Reynolds,N/A,20250203,Treatment for a broken leg.,Oliver Smith,Discharged
+200215,PAT_131,Lori Fisher,N/A,20250207,Admitted for a severe case of food poisoning.,Enzo Dunkins,Discharged
+200216,PAT_132,Rachel Ellis,Wayne Graham,20250210,Patient died from a sudden cardiac arrest.,Arthur Dwayne,Deceased
+200217,PAT_133,Marilyn Harrison,N/A,20250214,Treatment for a broken hand.,Oliver Smith,Discharged
+200218,PAT_134,Andrea Gibson,N/A,20250217,Admitted for a severe case of the measles.,Enzo Dunkins,Discharged
+200219,PAT_135,Joyce Mcdonald,Eugene Wallace,20250221,Admitted for observation after a seizure.,Arthur Dwayne,Under Treatment
+200220,PAT_136,Joan Cruz,N/A,20250224,Treatment for a broken foot.,Oliver Smith,Discharged
+200221,PAT_137,Evelyn Marshall,N/A,20250228,Admitted for a severe case of whooping cough.,Enzo Dunkins,Discharged
+200222,PAT_138,Jean Ortiz,Russell Cruz,20250303,Patient died from complications of a chronic illness.,Arthur Dwayne,Deceased
+200223,PAT_139,Victoria Gomez,N/A,20250307,Treatment for a broken finger.,Oliver Smith,Discharged
+200224,PAT_140,Cheryl Murray,N/A,20250310,Admitted for a severe case of mumps.,Enzo Dunkins,Discharged
+200225,PAT_141,Mildred Freeman,Johnny Murray,20250314,Admitted for observation after a head injury.,Arthur Dwayne,Under Treatment
+200226,PAT_142,Gloria Wells,N/A,20250317,Treatment for a broken arm.,Oliver Smith,Discharged
+200227,PAT_143,Janice Webb,N/A,20250321,Admitted for a severe case of chickenpox.,Enzo Dunkins,Discharged
+200228,PAT_144,Christina Simpson,Clarence Simpson,20250324,Patient died from a post-operative infection.,Arthur Dwayne,Deceased
+200229,PAT_145,Marie Stevens,N/A,20250328,Treatment for a broken leg.,Oliver Smith,Discharged
+200230,PAT_146,Beverly Tucker,N/A,20250331,Admitted for a severe case of rubella.,Enzo Dunkins,Discharged
+200231,PAT_147,Denise Porter,Roger Stevens,20250404,Admitted for observation after a fall.,Arthur Dwayne,Under Treatment
+200232,PAT_148,Tammy Hunter,N/A,20250407,Treatment for a broken foot.,Oliver Smith,Discharged
+200233,PAT_149,Irene Hicks,N/A,20250411,Admitted for a severe case of scarlet fever.,Enzo Dunkins,Discharged
+200234,PAT_150,Jane Crawford,Andrea Tucker,20250414,Patient died from a rare, aggressive cancer.,Arthur Dwayne,Deceased
+200235,PAT_151,Lori Henry,N/A,20250418,Treatment for a broken hand.,Oliver Smith,Discharged
+200236,PAT_152,Rachel Boyd,N/A,20250421,Admitted for a severe case of diphtheria.,Enzo Dunkins,Discharged
+200237,PAT_153,Marilyn Mason,Joyce Porter,20250425,Admitted for observation after a drug overdose.,Arthur Dwayne,Under Treatment
+200238,PAT_154,Andrea Morales,N/A,20250428,Treatment for a broken finger.,Oliver Smith,Discharged
+200239,PAT_155,Joyce Kennedy,N/A,20250502,Admitted for a severe case of tetanus.,Enzo Dunkins,Discharged
+200240,PAT_156,Joan Warren,Joan Hunter,20250505,Patient died from a brain hemorrhage.,Arthur Dwayne,Deceased
+200241,PAT_157,Evelyn Ford,N/A,20250509,Treatment for a broken arm.,Oliver Smith,Discharged
+200242,PAT_158,Jean Hamilton,N/A,20250512,Admitted for a severe case of cholera.,Enzo Dunkins,Discharged
+200243,PAT_159,Victoria Graham,Evelyn Hicks,20250516,Admitted for observation after a suicide attempt.,Arthur Dwayne,Under Treatment
+200244,PAT_160,Cheryl Sullivan,N/A,20250519,Treatment for a broken leg.,Oliver Smith,Discharged
+200245,PAT_161,Mildred Wallace,N/A,20250523,Admitted for a severe case of typhoid fever.,Enzo Dunkins,Discharged
+200246,PAT_162,Gloria Woods,Jean Crawford,20250526,Patient died from a massive stroke.,Arthur Dwayne,Deceased
+200247,PAT_163,Janice Cole,N/A,20250530,Treatment for a broken foot.,Oliver Smith,Discharged
+200248,PAT_164,Christina West,N/A,20250602,Admitted for a severe case of yellow fever.,Enzo Dunkins,Discharged
+200249,PAT_165,Marie Jordan,Victoria Henry,20250606,Admitted for observation after a domestic violence incident.,Arthur Dwayne,Under Treatment
+200250,PAT_166,Beverly Owens,N/A,20250609,Treatment for a broken hand.,Oliver Smith,Discharged
+200251,PAT_167,Denise Reynolds,N/A,20250613,Admitted for a severe case of dengue fever.,Enzo Dunkins,Discharged
+200252,PAT_168,Tammy Fisher,Cheryl Boyd,20250616,Patient died from a drug-resistant infection.,Arthur Dwayne,Deceased
+200253,PAT_169,Irene Ellis,N/A,20250620,Treatment for a broken finger.,Oliver Smith,Discharged
+200254,PAT_170,Jane Harrison,N/A,20250623,Admitted for a severe case of malaria.,Enzo Dunkins,Discharged
+200255,PAT_171,Lori Gibson,Mildred Mason,20250627,Admitted for observation after a near-drowning incident.,Arthur Dwayne,Under Treatment
+200256,PAT_172,Rachel Mcdonald,N/A,20250630,Treatment for a broken arm.,Oliver Smith,Discharged
+200257,PAT_173,Marilyn Cruz,N/A,20250704,Admitted for a severe case of chikungunya.,Enzo Dunkins,Discharged
+200258,PAT_174,Andrea Marshall,Gloria Morales,20250707,Patient died from an aortic dissection.,Arthur Dwayne,Deceased
+200259,PAT_175,Joyce Ortiz,N/A,20250711,Treatment for a broken leg.,Oliver Smith,Discharged
+200260,PAT_176,Joan Gomez,N/A,20250714,Admitted for a severe case of Japanese encephalitis.,Enzo Dunkins,Discharged
+200261,PAT_177,Evelyn Murray,Janice Kennedy,20250718,Admitted for observation after a severe allergic reaction.,Arthur Dwayne,Under Treatment
+200262,PAT_178,Jean Freeman,N/A,20250721,Treatment for a broken foot.,Oliver Smith,Discharged
+200263,PAT_179,Victoria Wells,N/A,20250725,Admitted for a severe case of leptospirosis.,Enzo Dunkins,Discharged
+200264,PAT_180,Cheryl Webb,Evelyn Ford,20250728,Patient died from a pulmonary embolism.,Arthur Dwayne,Deceased
+200265,PAT_181,Mildred Simpson,N/A,20250801,Treatment for a broken hand.,Oliver Smith,Discharged
+200266,PAT_182,Gloria Stevens,N/A,20250804,Admitted for a severe case of rabies.,Enzo Dunkins,Deceased
+200267,PAT_183,Janice Tucker,Jean Hamilton,20250808,Admitted for observation after a chemical burn.,Arthur Dwayne,Under Treatment
+200268,PAT_184,Christina Porter,N/A,20250811,Treatment for a broken finger.,Oliver Smith,Discharged
+200269,PAT_185,Marie Hunter,N/A,20250815,Admitted for a severe case of anthrax.,Enzo Dunkins,Deceased
+200270,PAT_186,Beverly Hicks,Victoria Graham,20250818,Patient died from a brain tumor.,Arthur Dwayne,Deceased
+200271,PAT_187,Denise Crawford,N/A,20250822,Treatment for a broken arm.,Oliver Smith,Discharged
+200272,PAT_188,Tammy Henry,N/A,20250825,Admitted for a severe case of botulism.,Enzo Dunkins,Deceased
+200273,PAT_189,Irene Boyd,Cheryl Sullivan,20250829,Admitted for observation after a venomous snakebite.,Arthur Dwayne,Under Treatment
+200274,PAT_190,Jane Mason,N/A,20250901,Treatment for a broken leg.,Oliver Smith,Discharged
+200275,PAT_191,Lori Morales,N/A,20250905,Admitted for a severe case of plague.,Enzo Dunkins,Deceased
+200276,PAT_192,Rachel Kennedy,Mildred Wallace,20250908,Patient died from a heart defect.,Arthur Dwayne,Deceased
+200277,PAT_193,Marilyn Warren,N/A,20250912,Treatment for a broken foot.,Oliver Smith,Discharged
+200278,PAT_194,Andrea Ford,N/A,20250915,Admitted for a severe case of smallpox.,Enzo Dunkins,Deceased
+200279,PAT_195,Joyce Hamilton,Gloria Woods,20250919,Admitted for observation after a severe burn.,Arthur Dwayne,Under Treatment
+200280,PAT_196,Joan Graham,N/A,20250922,Treatment for a broken hand.,Oliver Smith,Discharged
+200281,PAT_197,Evelyn Sullivan,N/A,20250926,Admitted for a severe case of tularemia.,Enzo Dunkins,Deceased
+200282,PAT_198,Jean Wallace,Janice Cole,20250929,Patient died from a genetic disorder.,Arthur Dwayne,Deceased
+200283,PAT_199,Victoria Woods,N/A,20251003,Treatment for a broken finger.,Oliver Smith,Discharged
+200284,PAT_200,Cheryl Cole,N/A,20251006,Admitted for a severe case of viral hemorrhagic fever.,Enzo Dunkins,Deceased

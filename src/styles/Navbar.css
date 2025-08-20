@@ -1,0 +1,183 @@
+/* --- Detective Noir Theme --- */
+
+/* Import a vintage typewriter font */
+@import url('https://fonts.googleapis.com/css2?family=Special+Elite&display=swap');
+
+/* General Body Style for Context */
+body {
+    background-color: #1a1a1a;
+    background-image: url('https://www.transparenttextures.com/patterns/dark-denim-3.png'); /* Subtle texture */
+    font-family: 'Special Elite', cursive; /* Vintage typewriter font */
+    padding: 1rem;
+    color: #f5f5f5; /* Off-white text */
+}
+
+/* Main navigation container - styled like a case file folder */
+.navbar-container {
+    display: flex;
+    align-items: center;
+    background-color: #bfaa7e; /* Manila folder color */
+    border: 1px solid #8c7a5e;
+    box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.5);
+    margin: 0 1rem;
+    padding: 0.5rem 1.5rem;
+    border-radius: 9999px; /* More rectangular shape */
+    font-size: 1rem;
+    position: relative;
+    color: #3d3d3d; /* Dark text for contrast */
+}
+
+/* --- Desktop Navigation Links - styled like stamped text */
+.desktop-nav-links {
+    display: none;
+    align-items: center;
+    gap: 2rem;
+    margin-left: 2rem;
+}
+
+.nav-link-group {
+    position: relative;
+    text-decoration: none;
+    color: #3d3d3d;
+    font-weight: bold;
+    letter-spacing: 1px;
+    transition: color 0.3s ease;
+}
+
+.nav-link-group::after {
+    content: '';
+    position: absolute;
+    width: 100%;
+    height: 2px;
+    bottom: -5px;
+    left: 0;
+    background-color: #c23616; /* Blood red accent */
+    visibility: hidden;
+    transform: scaleX(0);
+    transition: all 0.3s ease-in-out;
+}
+
+.nav-link-group:hover::after {
+    visibility: visible;
+    transform: scaleX(1);
+}
+
+.nav-link-group:hover {
+    color: #c23616;
+}
+
+/* Removing the slide-up effect for a simpler, stamped look */
+.nav-link-text-hover {
+    display: none;
+}
+
+/* --- Desktop Action Buttons - styled like official stamps */
+.desktop-action-buttons {
+    display: none;
+    margin-left: auto; /* Pushes buttons to the far right */
+    align-items: center;
+    gap: 1rem;
+}
+
+.contact-button,
+.get-started-button {
+    border: 2px solid #3d3d3d;
+    background-color: transparent;
+    color: #3d3d3d;
+    padding: 0.5rem 1rem;
+    border-radius: 3px;
+    font-family: 'Special Elite', cursive;
+    font-size: 1rem;
+    font-weight: bold;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    text-transform: uppercase;
+}
+
+.contact-button:hover {
+    background-color: #3d3d3d;
+    color: #bfaa7e;
+}
+
+.get-started-button {
+    background-color: #c23616; /* "Confidential" stamp red */
+    color: #f5f5f5;
+    border-color: #c23616;
+}
+
+.get-started-button:hover {
+    background-color: #8b220c;
+    border-color: #8b220c;
+    box-shadow: 0 0 10px rgba(245, 245, 245, 0.5);
+}
+
+/* --- Mobile Menu --- */
+.mobile-menu-toggle {
+    display: block;
+    background: none;
+    border: none;
+    cursor: pointer;
+    margin-left: auto;
+    padding: 0.5rem;
+}
+
+/* Magnifying glass icon for the menu toggle */
+.menu-icon {
+    width: 2rem;
+    height: 2rem;
+    color: #3d3d3d;
+}
+
+/* Mobile menu styled like a secret dossier */
+.mobile-menu {
+    display: none;
+    position: absolute;
+    top: 100%;
+    left: 0;
+    right: 0;
+    background-color: #3d3d3d;
+    border: 2px solid #bfaa7e;
+    flex-direction: column;
+    align-items: center;
+    gap: 1.5rem;
+    padding: 1.5rem 0;
+    z-index: 100;
+    box-shadow: 0 10px 20px rgba(0,0,0,0.4);
+}
+
+.mobile-menu-open {
+    display: flex;
+}
+
+.mobile-link {
+    color: #bfaa7e;
+    text-decoration: none;
+    font-size: 1.2rem;
+    text-transform: uppercase;
+}
+
+.mobile-link:hover {
+    color: #c23616;
+}
+
+/* --- Responsive Styles --- */
+@media (max-width: 767px) {
+    .navbar-container {
+        width: 100%;
+        justify-content: space-between;
+        box-sizing: border-box;
+    }
+}
+
+@media (min-width: 768px) {
+    .desktop-nav-links,
+    .desktop-action-buttons {
+        display: flex;
+    }
+    .mobile-menu-toggle {
+        display: none;
+    }
+    .mobile-menu {
+        display: none !important;
+    }
+}

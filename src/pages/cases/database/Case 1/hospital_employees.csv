@@ -1,0 +1,53 @@
+person_id,id_number,name,position,status
+579643,HOS_001,Arthur Dwayne,Head of Cardiology,Deceased
+482910,HOS_002,Enzo Dunkins,Ophthalmologist,On Duty
+108408,HOS_101,Oliver Smith,Cardiologist,On Leave
+471879,HOS_102,Michael Moore,Junior Doctor,Terminated
+398428,HOS_103,Bennet Mathew,Junior Doctor,On Duty
+194725,HOS_104,Susanne Brown,Nurse,On Duty
+112384,HOS_105,Peter Parkinson,Records Clerk,On Duty
+837462,HOS_106,Walter White,Pharmacist,On Duty
+502947,HOS_107,Maria Hill,Janitor,On Duty
+693012,HOS_108,Jessica Jones,Radiologist,On Duty
+473829,HOS_109,Luke Cage,Security Guard,On Duty
+882741,HOS_110,Matt Murdock,Anesthesiologist,On Duty
+301948,HOS_111,Frank Castle,Paramedic,On Duty
+593820,HOS_112,Danny Rand,Physical Therapist,On Duty
+746281,HOS_113,Elektra Natchios,Surgical Technician,On Duty
+283746,HOS_114,Misty Knight,Pediatrician,On Duty
+603827,HOS_115,Colleen Wing,Oncologist,On Leave
+492817,HOS_116,Claire Temple,General Practitioner,On Duty
+817263,HOS_117,Wilson Fisk,Administrator,On Duty
+582736,HOS_118,Karen Page,IT Support,On Duty
+384726,HOS_119,Foggy Nelson,Legal Counsel,On Duty
+928374,HOS_120,Trish Walker,Public Relations,On Duty
+627384,HOS_121,Malcolm Ducasse,Social Worker,On Duty
+182734,HOS_122,Jeri Hogarth,Chief of Staff,On Duty
+592837,HOS_123,Stan Lee,Pathologist,Retired
+482710,HOS_124,Jack Kirby,Medical Intern,On Duty
+382910,HOS_125,Steve Ditko,Lab Technician,On Duty
+739281,HOS_126,Bill Everett,Dietitian,On Duty
+100102,HOS_127,John Smith,Neurologist,On Duty
+100104,HOS_128,Michael Johnson,Urologist,On Duty
+100106,HOS_129,William Brown,Gastroenterologist,On Duty
+100108,HOS_130,Richard Garcia,Dermatologist,On Duty
+100112,HOS_131,Mary Rodriguez,Endocrinologist,On Duty
+100114,HOS_132,Patricia Martinez,Psychiatrist,On Leave
+100116,HOS_133,Jennifer Hernandez,Rheumatologist,On Duty
+100118,HOS_134,Elizabeth Gonzalez,Allergist,On Duty
+100121,HOS_135,James Thomas,Ophthalmologist,Retired
+100123,HOS_136,Charles Moore,Otolaryngologist,On Duty
+100125,HOS_137,Matthew Martin,Pulmonologist,On Duty
+100127,HOS_138,Mark Perez,Nephrologist,On Duty
+100132,HOS_139,Sarah Clark,Geriatrician,On Duty
+100134,HOS_140,Nancy Lewis,Hematologist,On Duty
+100136,HOS_141,Betty Walker,Infectious Disease Specialist,On Duty
+100138,HOS_142,Sandra Allen,Hospitalist,Deceased
+100141,HOS_143,Andrew Scott,Chief Financial Officer,On Duty
+100143,HOS_144,Kevin Baker,Head of Surgery,On Duty
+100145,HOS_145,George Nelson,Medical Resident,On Duty
+100147,HOS_146,Ronald Carter,Billing Specialist,On Duty
+100152,HOS_147,Sharon Phillips,Patient Advocate,On Duty
+100154,HOS_148,Laura Parker,Clinical Researcher,On Duty
+100156,HOS_149,Kimberly Edwards,Volunteer Coordinator,On Duty
+100158,HOS_150,Angela Stewart,Chaplain,On Duty

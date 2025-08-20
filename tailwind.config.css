@@ -1,0 +1,12 @@
+/** @type {import('tailwindcss').Config} **/
+        module.exports = {
+          content: [
+            './src/**/*.{html,js,jsx,ts,tsx}', // Adjust this path to your project structure
+            './public/index.html',
+            // ... other files where you use Tailwind classes
+          ],
+          theme: {
+            extend: {},
+          },
+          plugins: [],
+        }

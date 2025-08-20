@@ -1,0 +1,309 @@
+date,type,description,city
+20240102,Theft,"Shoplifting reported at Silveridge Mall.",Silveridge
+20240103,Vandalism,"Graffiti found on the walls of Crestwood Heights.",Crestwood
+20240105,Assault,"Minor altercation between two drivers near Maple Creek Bridge.",Maple Creek
+20240106,Burglary,"Residential break-in reported. Electronics stolen.",Northwood
+20240108,Theft,"Wallet stolen from a passenger on a city bus.",Oakhaven
+20240110,Arson,"Small fire deliberately set in a dumpster behind a restaurant.",Pinehurst
+20240112,Vandalism,"Car tires slashed in a residential parking lot.",Riverbend
+20240114,Theft,"Bicycle stolen from outside a residence.",Stonebridge
+20240115,Assault,"Bar fight at a local pub.",Westbrook
+20240117,Burglary,"Attempted burglary at a warehouse.",Willow Creek
+20240119,Robbery,"Mobile phone snatched from a pedestrian near Silver Stream.",Silveridge
+20240121,Fraud,"Credit card fraud reported by a resident.",Crestwood
+20240123,Vandalism,"Park benches at Maple Leaf Park damaged.",Maple Creek
+20240125,Harassment,"Stalking complaint filed against an individual.",Northwood
+20240127,Assault,"Domestic dispute reported in a flat. Police intervened.",Oakhaven
+20240129,Burglary,"Jewelry and cash stolen from a home.",Pinehurst
+20240131,Theft,"Laptop stolen from a car parked near Riverbend Market.",Riverbend
+20240201,Smuggling,"Illegal wildlife products seized at the city border.",Stonebridge
+20240203,Theft,"Motorcycle stolen from a parking garage.",Westbrook
+20240205,Vandalism,"Windows of a government office broken.",Willow Creek
+20240207,Assault,"Road rage incident on Silveridge Bridge. Both parties warned.",Silveridge
+20240209,Burglary,"Break-in at a pharmacy. Prescription drugs stolen.",Crestwood
+20240211,Extortion,"Local business owner received threatening letter demanding money.",Maple Creek
+20240213,Fraud,"Online scam reported by a student. Lost money in a fake investment scheme.",Northwood
+20240215,Theft,"Pickpocketing reported in a crowded market.",Oakhaven
+20240217,Assault,"Altercation between street vendors over territory. Resolved by police.",Pinehurst
+20240219,Burglary,"Office space broken into. Computers stolen.",Riverbend
+20240221,Kidnapping,"Child reported missing from a park, ransom note found.",Stonebridge
+20240223,Vandalism,"Statue in a public park defaced.",Westbrook
+20240225,Theft,"Copper wire stolen from a telecom tower.",Willow Creek
+20240227,Assault,"Clash between two student groups at Oakhaven University. Minor injuries.",Oakhaven
+20240229,Burglary,"Attempted break-in at a jewelry store. Alarm system triggered.",Silveridge
+20240302,Theft,"Handbag stolen from a shopper at a supermarket.",Crestwood
+20240304,Arson,"Car set on fire in a residential neighborhood. Suspect unknown.",Maple Creek
+20240306,Trespassing,"Individual found trespassing on private property.",Northwood
+20240308,Assault,"Heated argument at a family gathering leads to minor scuffle.",Oakhaven
+20240310,Burglary,"Tools stolen from a garage in a residence.",Pinehurst
+20240312,Theft,"ATM card skimming device found at an ATM kiosk.",Riverbend
+20240314,Vandalism,"Public telephone booth destroyed.",Stonebridge
+20240316,Robbery,"Armed robbery at a convenience store.",Westbrook
+20240318,Assault,"Dispute over a land boundary turns violent. Police called.",Willow Creek
+20240320,Burglary,"Break-in at a school during the night. Canteen was ransacked.",Silveridge
+20240322,Fraud,"Man reported his identity was stolen and used to take out loans.",Crestwood
+20240324,Extortion,"Blackmail attempt reported via email.",Maple Creek
+20240326,Theft,"Valuables stolen from a locker at a gym.",Northwood
+20240328,Assault,"Two individuals arrested after a public brawl.",Oakhaven
+20240330,Burglary,"Electronics store burgled overnight. High-value items taken.",Pinehurst
+20240401,Smuggling,"Contraband goods found in a shipping container.",Riverbend
+20240403,Vandalism,"Vehicle damaged in a parking dispute.",Stonebridge
+20240405,Theft,"Water pump stolen from a residential building.",Westbrook
+20240407,Assault,"Security guard assaulted by an unidentified individual.",Willow Creek
+20240409,Burglary,"Attempted ATM theft. Machine damaged but no cash taken.",Silveridge
+20240411,Harassment,"Online harassment reported by a student.",Crestwood
+20240413,Fraud,"Counterfeit currency circulated in a local market.",Maple Creek
+20240415,Theft,"Sand illegally mined from the riverbanks.",Northwood
+20240417,Assault,"A tourist was harassed by a group of youths. Police intervened.",Oakhaven
+20240419,Burglary,"A vacant house was broken into and vandalized.",Pinehurst
+20240421,Kidnapping,"Businessman abducted from his vehicle.",Riverbend
+20240423,Vandalism,"Street lights in a lane were broken.",Stonebridge
+20240425,Theft,"A fishing boat was stolen from the riverbank.",Westbrook
+20240427,Assault,"A journalist was threatened for their reporting.",Willow Creek
+20240429,Robbery,"Bank robbery reported downtown.",Silveridge
+20240501,Theft,"A rare orchid was stolen from the botanical garden.",Crestwood
+20240503,Arson,"A haystack was set on fire in a rural area.",Maple Creek
+20240505,Theft,"An antique idol was stolen from a family heirloom collection.",Northwood
+20240507,Assault,"A traffic police officer was manhandled by a violator.",Oakhaven
+20240509,Burglary,"A tailor shop was broken into, and sewing machines were stolen.",Pinehurst
+20240511,Trespassing,"Complaint about unauthorized access to a construction site.",Riverbend
+20240513,Vandalism,"A community water tap was damaged.",Stonebridge
+20240515,Theft,"A musician's instrument was stolen after a concert.",Westbrook
+20240517,Assault,"A verbal dispute escalated into a physical fight at a tea stall.",Willow Creek
+20240519,Burglary,"A bookstore was burgled, and rare books were taken.",Silveridge
+20240521,Theft,"A research scholar's data was stolen from a university lab.",Crestwood
+20240523,Fraud,"A fake charity was collecting donations in the name of a real one.",Maple Creek
+20240525,Extortion,"Protection money demanded from a street vendor.",Northwood
+20240527,Assault,"A senior citizen was pushed during a morning walk.",Oakhaven
+20240529,Burglary,"A photo studio was broken into, and camera equipment was stolen.",Pinehurst
+20240531,Theft,"A scriptwriter's laptop with a new script was stolen.",Riverbend
+20240602,Smuggling,"Rare artifacts discovered during a customs check.",Stonebridge
+20240604,Theft,"A painter's artwork was stolen from a gallery.",Westbrook
+20240606,Vandalism,"A newly constructed bus stop was damaged.",Willow Creek
+20240608,Assault,"A street play was disrupted by a group of hecklers.",Silveridge
+20240610,Burglary,"A dance academy was burgled, and costumes were stolen.",Crestwood
+20240612,Theft,"A drone was stolen while it was being operated in a park.",Maple Creek
+20240614,Fraud,"A person was sold a fake gold chain.",Northwood
+20240616,Robbery,"Jewelry store robbed at gunpoint.",Oakhaven
+20240618,Assault,"A librarian was threatened by a person for levying a fine.",Pinehurst
+20240620,Burglary,"A pottery studio was broken into, and finished products were stolen.",Riverbend
+20240622,Theft,"A collection of movie posters was stolen.",Stonebridge
+20240624,Vandalism,"A public art installation was defaced.",Westbrook
+20240626,Theft,"A street food vendor's cart was stolen.",Willow Creek
+20240628,Assault,"A heated debate at a book club meeting turned physical.",Silveridge
+20240630,Burglary,"A magic shop was burgled, and props were stolen.",Crestwood
+20240701,Theft,"A collection of comic books was stolen.",Maple Creek
+20240703,Arson,"A pile of old newspapers was set on fire.",Northwood
+20240705,Theft,"A gardener's tools were stolen from a park.",Oakhaven
+20240707,Assault,"A tourist was overcharged by a taxi driver, leading to an argument.",Pinehurst
+20240709,Burglary,"A toy store was broken into, and expensive toys were stolen.",Riverbend
+20240711,Theft,"A collection of vinyl records was stolen.",Stonebridge
+20240713,Vandalism,"A memorial plaque was damaged.",Westbrook
+20240715,Theft,"A telescope was stolen from a rooftop.",Willow Creek
+20240717,Assault,"A person was bitten by a pet dog, and the owner refused to take responsibility.",Silveridge
+20240719,Burglary,"A bakery was burgled, and cash from the register was stolen.",Crestwood
+20240721,Kidnapping,"Attempted kidnapping of a public figure thwarted by security.",Maple Creek
+20240723,Fraud,"A person was sold a fake lottery ticket that 'won' a prize.",Northwood
+20240725,Theft,"A beekeeper's beehives were stolen.",Oakhaven
+20240727,Assault,"A person was injured by a stray firecracker.",Pinehurst
+20240729,Burglary,"A perfume shop was broken into, and expensive perfumes were stolen.",Riverbend
+20240731,Theft,"A collection of old coins was stolen.",Stonebridge
+20240802,Smuggling,"Illegal firecrackers were seized before a festival.",Westbrook
+20240804,Theft,"A kite maker's special kites were stolen.",Willow Creek
+20240806,Vandalism,"A traffic signal was damaged.",Silveridge
+20240808,Assault,"A person was pushed into a swimming pool during a party.",Crestwood
+20240810,Burglary,"A sports equipment store was burgled.",Maple Creek
+20240812,Theft,"A collection of miniature cars was stolen.",Northwood
+20240814,Fraud,"A person was duped in an online 'work from home' job offer.",Oakhaven
+20240816,Theft,"A farmer's produce was stolen from a truck.",Pinehurst
+20240818,Assault,"A person was injured while trying to stop a chain snatcher.",Riverbend
+20240820,Burglary,"A music school was broken into, and instruments were stolen.",Stonebridge
+20240822,Theft,"A collection of action figures was stolen.",Westbrook
+20240824,Vandalism,"A public library's books were torn.",Willow Creek
+20240826,Theft,"A street artist's supplies were stolen.",Silveridge
+20240828,Assault,"A person was injured by a falling hoarding.",Crestwood
+20240830,Burglary,"A pet shop was broken into, but no animals were harmed.",Maple Creek
+20240901,Theft,"A collection of postcards was stolen.",Northwood
+20240903,Arson,"A garbage bin was set on fire.",Oakhaven
+20240905,Theft,"A chef's special knives were stolen from a restaurant.",Pinehurst
+20240907,Assault,"A person was injured in a stampede at a concert.",Riverbend
+20240909,Burglary,"A hardware store was burgled.",Stonebridge
+20240911,Theft,"A collection of movie tickets was stolen.",Westbrook
+20240913,Vandalism,"A park's fountain was damaged.",Willow Creek
+20240915,Theft,"A writer's diary was stolen.",Silveridge
+20240917,Assault,"A person was injured by a speeding cyclist.",Crestwood
+20240919,Burglary,"A flower shop was broken into.",Maple Creek
+20240921,Theft,"A collection of sea shells was stolen.",Northwood
+20240923,Fraud,"A person was sold a fake antique.",Oakhaven
+20240925,Theft,"A gardener's prized rose bush was stolen.",Pinehurst
+20240927,Assault,"A person was injured by a falling coconut.",Riverbend
+20240929,Burglary,"A candy store was burgled.",Stonebridge
+20241001,Theft,"A collection of bottle caps was stolen.",Westbrook
+20241003,Smuggling,"Endangered turtles were rescued from smugglers.",Willow Creek
+20241005,Theft,"A scientist's research paper was stolen.",Silveridge
+20241007,Vandalism,"A school's playground equipment was damaged.",Crestwood
+20241009,Assault,"A person was injured by a sharp object on a beach.",Maple Creek
+20241011,Burglary,"A shoe store was burgled.",Northwood
+20241013,Theft,"A collection of keychains was stolen.",Oakhaven
+20241015,Fraud,"A person was tricked into revealing their bank details over the phone.",Pinehurst
+20241017,Theft,"A fisherman's net was stolen.",Riverbend
+20241019,Assault,"A person was injured by a broken glass bottle.",Stonebridge
+20241021,Burglary,"An electronics repair shop was broken into.",Westbrook
+20241023,Theft,"A collection of magnets was stolen.",Willow Creek
+20241025,Vandalism,"A public wall mural was painted over.",Silveridge
+20241027,Theft,"A street performer's earnings were stolen.",Crestwood
+20241029,Assault,"A person was injured by a falling tree branch during a storm.",Maple Creek
+20241031,Burglary,"A costume shop was burgled on Halloween night.",Northwood
+20241102,Theft,"A collection of board games was stolen.",Oakhaven
+20241104,Arson,"A pile of dry leaves was set on fire.",Pinehurst
+20241106,Theft,"A baker's secret recipe book was stolen.",Riverbend
+20241108,Assault,"A person was injured in a friendly game of football.",Stonebridge
+20241110,Burglary,"A stationery shop was burgled.",Westbrook
+20241112,Theft,"A collection of pens was stolen.",Willow Creek
+20241114,Fraud,"A person was sold a faulty electronic device online.",Silveridge
+20241116,Theft,"A farmer's scarecrow was stolen.",Crestwood
+20241118,Assault,"A person was injured by a carelessly thrown object.",Maple Creek
+20241120,Burglary,"A gift shop was broken into.",Northwood
+20241122,Theft,"A collection of hats was stolen.",Oakhaven
+20241124,Vandalism,"A public bench was broken.",Pinehurst
+20241126,Theft,"A street vendor's umbrella was stolen.",Riverbend
+20241128,Assault,"A person was injured by a dog that was not on a leash.",Stonebridge
+20241130,Burglary,"A pet grooming salon was broken into.",Westbrook
+20241202,Theft,"A collection of scarves was stolen.",Willow Creek
+20241204,Smuggling,"Rare medicinal plants were seized from being smuggled out of the state.",Silveridge
+20241206,Theft,"A rare manuscript was stolen from a library.",Crestwood
+20241208,Vandalism,"Holiday decorations in the town square were destroyed.",Maple Creek
+20241210,Assault,"A dispute over a parking spot led to a fistfight.",Northwood
+20241212,Burglary,"A home was burgled while the family was on vacation.",Oakhaven
+20241214,Theft,"Christmas presents were stolen from a car.",Pinehurst
+20241216,Fraud,"A phishing email tricked a user into giving away their password.",Riverbend
+20241218,Theft,"An ice sculptor's tools were stolen.",Stonebridge
+20241220,Assault,"A snowball fight turned aggressive, resulting in a minor injury.",Westbrook
+20241222,Burglary,"A ski lodge was broken into, and equipment was stolen.",Willow Creek
+20241224,Theft,"A charity's donation kettle was stolen on Christmas Eve.",Silveridge
+20241226,Vandalism,"A car was keyed in a mall parking lot.",Crestwood
+20241228,Theft,"A lost wallet was found, but the cash was missing.",Maple Creek
+20241230,Assault,"New Year's Eve fireworks were set off improperly, causing a panic.",Northwood
+20250101,Murder,"Body discovered in Oakhaven Central Park. Victim has not been identified.",Oakhaven
+20250103,Theft,"Gym bag stolen from a locker room.",Pinehurst
+20250105,Vandalism,"School bus windows were shattered overnight.",Riverbend
+20250107,Assault,"A protest turned violent, leading to several arrests.",Stonebridge
+20250109,Burglary,"A tech startup's office was burglarized; prototypes stolen.",Westbrook
+20250111,Robbery,"A food delivery driver was robbed of their cash and vehicle.",Willow Creek
+20250113,Fraud,"An elderly person was scammed over the phone by someone impersonating a bank official.",Silveridge
+20250821,Murder,"A doctor was found dead in his flat. There were three witnesses. One of them was a lady who lived next to the victim's flat, the other was the victim's wife and the last one lives in silk street, but works in the apartment.",Silveridge
+20250115,Theft,"A drone was shot down and stolen from a park.",Crestwood
+20250117,Harassment,"A public official reported receiving threatening messages.",Maple Creek
+20250119,Burglary,"A recording studio was broken into; audio equipment stolen.",Northwood
+20250121,Theft,"A valuable painting was stolen from a private collection.",Oakhaven
+20250123,Vandalism,"A historical landmark was defaced with paint.",Pinehurst
+20250125,Assault,"A concertgoer was injured in a mosh pit.",Riverbend
+20250127,Burglary,"A veterinary clinic was broken into; pet medication stolen.",Stonebridge
+20250129,Extortion,"A hacker is demanding ransom after a data breach.",Westbrook
+20250201,Theft,"A shipment of designer clothes was stolen from a truck.",Willow Creek
+20250203,Smuggling,"Counterfeit luxury goods were seized at a port.",Silveridge
+20250205,Theft,"A food truck was stolen from its usual spot.",Crestwood
+20250207,Vandalism,"Tires of multiple cars on one street were slashed.",Maple Creek
+20250209,Assault,"A political rally was disrupted by counter-protesters, leading to scuffles.",Northwood
+20250211,Burglary,"A greenhouse was broken into and rare plants were stolen.",Oakhaven
+20250213,Theft,"A custom-built computer was stolen from a gaming cafe.",Pinehurst
+20250215,Fraud,"A fake online store took payments but never shipped goods.",Riverbend
+20250217,Theft,"A street musician's earnings were stolen.",Stonebridge
+20250219,Assault,"A referee was attacked by a player during a local sports match.",Westbrook
+20250221,Burglary,"A comic book store was burgled; a rare first edition was the target.",Willow Creek
+20250223,Kidnapping,"A wealthy industrialist's pet was kidnapped, and a ransom was demanded.",Silveridge
+20250225,Theft,"A collection of antique maps was stolen from a university archive.",Crestwood
+20250227,Vandalism,"A public swimming pool was drained and filled with soap.",Maple Creek
+20250301,Theft,"A beekeeper reported the theft of several hives.",Northwood
+20250303,Arson,"A rival business is suspected of setting fire to a warehouse.",Oakhaven
+20250305,Theft,"A famous author's laptop, containing an unpublished manuscript, was stolen.",Pinehurst
+20250307,Assault,"A dispute over a board game at a cafe turned physical.",Riverbend
+20250309,Burglary,"A film set was broken into, and props were stolen.",Stonebridge
+20250311,Theft,"A high-end espresso machine was stolen from a coffee shop.",Westbrook
+20250313,Fraud,"A contractor took a down payment for a home renovation and disappeared.",Willow Creek
+20250315,Theft,"A food critic's notebook was stolen from a restaurant.",Silveridge
+20250317,Assault,"A St. Patrick's Day parade was disrupted by a brawl.",Crestwood
+20250319,Burglary,"A winery was broken into, and expensive bottles of wine were stolen.",Maple Creek
+20250321,Trespassing,"A group was caught attempting to spend the night in a large furniture store.",Northwood
+20250323,Theft,"A professional athlete's championship ring was stolen from their hotel room.",Oakhaven
+20250325,Vandalism,"A golf course's greens were damaged by a vehicle overnight.",Pinehurst
+20250327,Theft,"A food blogger's camera was stolen while they were taking photos.",Riverbend
+20250329,Assault,"A person was injured by a malfunctioning ride at a local fair.",Stonebridge
+20250401,Theft,"A magician's props were stolen before a show.",Westbrook
+20250403,Robbery,"A pharmacy was robbed of its supply of painkillers.",Willow Creek
+20250405,Theft,"A rare bonsai tree was stolen from a botanical garden.",Silveridge
+20250407,Vandalism,"A public fountain was filled with dye.",Crestwood
+20250409,Assault,"A chef was burned by a disgruntled employee in a kitchen.",Maple Creek
+20250411,Burglary,"A pet store was broken into; exotic fish were stolen.",Northwood
+20250413,Theft,"A tailor's collection of expensive fabrics was stolen.",Oakhaven
+20250415,Fraud,"A psychic convinced a person to hand over their life savings.",Pinehurst
+20250417,Theft,"A street artist's completed mural was painted over and their supplies stolen.",Riverbend
+20250419,Assault,"A person was injured by a falling piece of equipment at a construction site.",Stonebridge
+20250421,Burglary,"A dance studio was broken into; sound system stolen.",Westbrook
+20250423,Theft,"A collection of rare sneakers was stolen from a collector.",Willow Creek
+20250425,Vandalism,"A community garden was trampled and destroyed.",Silveridge
+20250427,Theft,"A food competition contestant's secret ingredient was stolen.",Crestwood
+20250429,Assault,"A person was injured by a poorly handled drone.",Maple Creek
+20250501,Burglary,"A May Day celebration was disrupted by a break-in at the event office.",Northwood
+20250503,Theft,"A collection of antique dolls was stolen.",Oakhaven
+20250505,Arson,"A rival florist's delivery van was set on fire.",Pinehurst
+20250507,Theft,"A famous comedian's joke book was stolen.",Riverbend
+20250509,Assault,"A person was injured by a runaway shopping cart.",Stonebridge
+20250511,Burglary,"A bakery was broken into; the secret sourdough starter was stolen.",Westbrook
+20250513,Theft,"A collection of vintage movie posters was stolen.",Willow Creek
+20250515,Fraud,"A person was sold a counterfeit concert ticket.",Silveridge
+
+20250517,Theft,"A farmer's market vendor's cash box was stolen.",Crestwood
+20250519,Assault,"A person was injured by a falling sign.",Maple Creek
+20250521,Burglary,"A library was broken into; rare books were stolen.",Northwood
+20250523,Theft,"A collection of autographed sports memorabilia was stolen.",Oakhaven
+20250525,Vandalism,"A public statue was dressed in ridiculous clothing.",Pinehurst
+20250527,Theft,"A street performer's monkey was stolen.",Riverbend
+20250529,Assault,"A person was injured by a misfired confetti cannon.",Stonebridge
+20250601,Burglary,"A museum was broken into, but nothing was stolen.",Westbrook
+20250603,Theft,"A collection of rare butterflies was stolen from an entomologist.",Willow Creek
+20250605,Smuggling,"Illegally imported cigars were seized.",Silveridge
+20250607,Theft,"A food critic's reservation was stolen by an imposter.",Crestwood
+20250609,Vandalism,"A public mural was altered with graffiti.",Maple Creek
+20250611,Assault,"A person was injured by a runaway lawnmower.",Northwood
+20250613,Burglary,"A candy factory was broken into; the secret formula was stolen.",Oakhaven
+20250615,Theft,"A collection of rare sea glass was stolen from a beachcomber.",Pinehurst
+20250617,Fraud,"A person was sold a 'magic' potion that did nothing.",Riverbend
+20250619,Theft,"A gardener's prize-winning pumpkin was stolen before the competition.",Stonebridge
+20250621,Assault,"A person was injured by a falling water balloon.",Westbrook
+20250623,Burglary,"A costume shop was broken into; the mascot costume was stolen.",Willow Creek
+20250625,Theft,"A collection of antique keys was stolen.",Silveridge
+20250627,Vandalism,"A public park's sprinkler system was tampered with, flooding the area.",Crestwood
+20250629,Theft,"A street vendor's recipe book was stolen.",Maple Creek
+20250701,Assault,"A person was injured by a rogue firework during a celebration.",Northwood
+20250703,Burglary,"An ice cream shop was broken into; all the fudge ripple was stolen.",Oakhaven
+20250705,Theft,"A collection of rare feathers was stolen from an ornithologist.",Pinehurst
+20250707,Arson,"A rival's prize-winning rose bushes were set on fire.",Riverbend
+20250709,Theft,"A famous magician's rabbit was stolen.",Stonebridge
+20250711,Assault,"A person was injured by a falling book in a library.",Westbrook
+20250713,Burglary,"A joke shop was broken into; all the rubber chickens were stolen.",Willow Creek
+20250715,Theft,"A collection of vintage postcards was stolen.",Silveridge
+20250717,Fraud,"A person was sold a 'piece of the moon' online.",Crestwood
+20250719,Theft,"A sandcastle competition contestant's prize-winning castle was destroyed and their tools stolen.",Maple Creek
+20250721,Assault,"A person was injured by a runaway beach umbrella.",Northwood
+20250723,Burglary,"A surf shop was broken into; custom surfboards stolen.",Oakhaven
+20250725,Theft,"A collection of rare shells was stolen from a marine biologist.",Pinehurst
+20250727,Vandalism,"A public telescope was damaged.",Riverbend
+20250729,Theft,"A street performer's puppet was stolen.",Stonebridge
+20250801,Assault,"A person was injured by a falling coconut.",Westbrook
+20250803,Burglary,"A tiki bar was broken into; all the little umbrellas were stolen.",Willow Creek
+20250805,Theft,"A collection of rare tiki mugs was stolen.",Silveridge
+20250807,Smuggling,"Exotic parrots were seized at the airport.",Crestwood
+20250809,Theft,"A professional hula dancer's costume was stolen.",Maple Creek
+20250811,Vandalism,"A public hammock was slashed.",Northwood
+20250813,Assault,"A person was injured by a rogue wave.",Oakhaven
+20250815,Burglary,"A message in a bottle was stolen from a museum.",Pinehurst
+20250817,Theft,"A collection of rare driftwood was stolen from an artist.",Riverbend
+20250819,Fraud,"A person was sold a 'treasure map' that led to nothing.",Stonebridge
+20250821,Theft,"A pirate ship replica's flag was stolen.",Westbrook
+20250823,Assault,"A person was pinched by a crab.",Willow Creek
+20250825,Burglary,"A seafood restaurant was broken into; all the lobster was stolen.",Silveridge
+20250826,Murder,"Found deceased in flat. A single stab wound to the abdomen. Witnesses: a neighbor and the building's watchman.",Silveridge
+20250827,Theft,"A collection of rare fish was stolen from an aquarium.",Crestwood
+20250829,Vandalism,"A public lighthouse's light was broken.",Maple Creek
+20250831,Theft,"A ship captain's logbook was stolen.",Northwood

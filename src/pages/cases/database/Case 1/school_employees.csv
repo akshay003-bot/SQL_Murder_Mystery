@@ -1,0 +1,28 @@
+person_id,id_number,name,position,status
+100142,SCH_002,Brian Green,Principal,On Duty
+100153,SCH_003,Michelle Campbell,History Teacher,On Duty
+100160,SCH_004,Brenda Rogers,Art Teacher,On Duty
+100171,SCH_005,Pamela Howard,Librarian,On Duty
+100182,SCH_006,Walter Bennett,Science Teacher,On Duty
+100193,SCH_007,Kelly Washington,English Teacher,On Leave
+100204,SCH_008,Louis Myers,Physical Education Teacher,On Duty
+100215,SCH_009,Tammy Reynolds,School Counselor,On Duty
+100226,SCH_010,Bradley Freeman,Music Teacher,On Duty
+100237,SCH_011,Cheryl Boyd,Science Teacher,On Duty
+100248,SCH_012,Sota Kobayashi,Mathematics Teacher,On Duty
+346865,SCH_001,Peter Parkinson,Science Teacher,On Duty
+100259,SCH_013,Rin Kato,Administrative Assistant,On Duty
+100111,SCH_014,Ananya Sharma,Vice Principal,On Duty
+100122,SCH_015,Robert Taylor,IT Coordinator,On Duty
+100133,SCH_016,Karen Ramirez,Geography Teacher,On Duty
+100144,SCH_017,Jason Adams,Janitor,On Duty
+100155,SCH_018,Cynthia Evans,Social Studies Teacher,On Duty
+100166,SCH_019,Justin Bailey,Drama Teacher,On Duty
+100177,SCH_020,Laura Watson,Special Education Teacher,On Duty
+100188,SCH_021,Carl Perry,Geography Teacher,On Duty
+100199,SCH_022,Lois Alexander,Economics Teacher,Retired
+100210,SCH_023,Vincent Woods,Workshop Technician,On Duty
+100221,SCH_024,Russell Cruz,Security Guard,On Duty
+100232,SCH_025,Joyce Porter,Cafeteria Manager,On Duty
+100243,SCH_026,Akira Takahashi,Foreign Language Teacher,On Duty
+100254,SCH_027,Rio Watanabe,Assistant Librarian,On Duty
