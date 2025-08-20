@@ -6,5 +6,6 @@ import tailwindcss from '@tailwindcss/vite'
 export default defineConfig({
   plugins: [react(), tailwindcss()],
   mode: 'jit',
+  base: "/SQL_Murder_Mystery/",
   assetsInclude: ['**/*.csv']
 })
