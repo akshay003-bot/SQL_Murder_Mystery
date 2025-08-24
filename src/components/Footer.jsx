@@ -4,19 +4,19 @@ import '../styles/Footer.css';
 const Footer = () => {
     return(
         <>
-        <footer class="footer-noir">
-        <div class="footer-content">
-            <p class="case-closed-notice">Case File #190825. All evidence sealed and archived.</p>
+        <footer className="footer-noir">
+        <div className="footer-content">
+            <p className="case-closed-notice">Case File #190825. All evidence sealed and archived.</p>
             
-            <div class="informant-links">
+            <div className="informant-links">
                 <a href="#">Contact the Agency</a>
-                <div class="redacted-line"></div>
+                <div className="redacted-line"></div>
                 <a href="#">Witness Protection Policy</a>
-                <div class="redacted-line"></div>
+                <div className="redacted-line"></div>
                 <a href="#">Classified Marks</a>
             </div>
 
-            <div class="seal-insignia">
+            <div className="seal-insignia">
                 U
             </div>
         </div>

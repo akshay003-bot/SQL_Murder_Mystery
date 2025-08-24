@@ -6,8 +6,8 @@ import '../styles/Navbar.css'
 const Navbar = () => {
     return(
     <>
-    <nav class="navbar-container">
-        <a href="https://prebuiltui.com">
+    <nav className="navbar-container">
+        <a href="">
             <svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
                 <circle cx="4.706" cy="16" r="4.706" fill="#D9D9D9" />
                 <circle cx="16.001" cy="4.706" r="4.706" fill="#D9D9D9" />
@@ -15,61 +15,61 @@ const Navbar = () => {
                 <circle cx="27.294" cy="16" r="4.706" fill="#D9D9D9" />
             </svg>
         </a>
-        <div class="desktop-nav-links">
-            <a href="#" class="nav-link-group">
-                <span class="nav-link-text">Cases</span>
-                <span class="nav-link-text-hover">Cases</span>
+        <div className="desktop-nav-links">
+            <a href="#" className="nav-link-group">
+                <span className="nav-link-text">Cases</span>
+                <span className="nav-link-text-hover">Cases</span>
             </a>
-            <a href="#" class="nav-link-group">
-                <span class="nav-link-text">Stories</span>
-                <span class="nav-link-text-hover">Stories</span>
+            <a href="#" className="nav-link-group">
+                <span className="nav-link-text">Stories</span>
+                <span className="nav-link-text-hover">Stories</span>
             </a>
-            <a href="#" class="nav-link-group">
-                <span class="nav-link-text">Pricing</span>
-                <span class="nav-link-text-hover">Pricing</span>
+            <a href="#" className="nav-link-group">
+                <span className="nav-link-text">Pricing</span>
+                <span className="nav-link-text-hover">Pricing</span>
             </a>
             <Link to="/learn">
-            <a class="nav-link-group">
-                <span class="nav-link-text">Docs</span>
-                <span class="nav-link-text-hover">Docs</span>
+            <a className="nav-link-group">
+                <span className="nav-link-text">Docs</span>
+                <span className="nav-link-text-hover">Docs</span>
             </a>
             </Link>
-            <a href="https://akshay003-bot.github.io/Akshay_Nasanakota_Portfolio/" class="nav-link-group">
-                <span class="nav-link-text">Know Me</span>
-                <span class="nav-link-text-hover">Know Me</span>
+            <a href="https://akshay003-bot.github.io/Akshay_Nasanakota_Portfolio/" className="nav-link-group">
+                <span className="nav-link-text">Know Me</span>
+                <span className="nav-link-text-hover">Know Me</span>
             </a>
         </div>
 
-        <div class="desktop-action-buttons">
+        <div className="desktop-action-buttons">
             <Link to="/case1sql">
-            <button class="get-started-button">
+            <button className="get-started-button">
                 Get Started
             </button>
             </Link>
         </div>
-        <button id="menuToggle" class="mobile-menu-toggle">
-            <svg class="menu-icon" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"
+        <button id="menuToggle" className="mobile-menu-toggle">
+            <svg className="menu-icon" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"
                 stroke-linecap="round" stroke-linejoin="round">
                 <path d="M4 6h16M4 12h16M4 18h16" />
             </svg>
         </button>
-        <div id="mobileMenu" class="mobile-menu">
-            <a class="mobile-link" href="#">
+        <div id="mobileMenu" className="mobile-menu">
+            <a className="mobile-link" href="#">
                 Products
             </a>
-            <a class="mobile-link" href="#">
+            <a className="mobile-link" href="#">
                 Customer Stories
             </a>
-            <a class="mobile-link" href="#">
+            <a className="mobile-link" href="#">
                 Pricing
             </a>
-            <a class="mobile-link" href="/learn">
+            <a className="mobile-link" href="/learn">
                 Docs
             </a>
-            <button class="contact-button">
+            <button className="contact-button">
                 Contact
             </button>
-            <button class="get-started-button">
+            <button className="get-started-button">
                 Get Started
             </button>
         </div>
@@ -80,7 +80,7 @@ const Navbar = () => {
         const mobileMenu = document.getElementById('mobileMenu');
 
         menuToggle.addEventListener('click', () => {
-            // Instead of using a 'hidden' class, we toggle a class that sets display to flex
+            // Instead of using a 'hidden' className, we toggle a className that sets display to flex
             if (mobileMenu.style.display === 'flex') {
                 mobileMenu.style.display = 'none';
             } else {

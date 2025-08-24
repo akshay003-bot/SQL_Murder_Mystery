@@ -1,5 +1,5 @@
 person_id,id_number,name,position,status
-579643,HOS_001,Arthur Dwayne,Head of Cardiology,Deceased
+579643,HOS_001,Arthur Dwayne,Cardiologist,Deceased
 482910,HOS_002,Enzo Dunkins,Ophthalmologist,On Duty
 108408,HOS_101,Oliver Smith,Cardiologist,On Leave
 471879,HOS_102,Michael Moore,Junior Doctor,Terminated
@@ -8,6 +8,7 @@ person_id,id_number,name,position,status
 112384,HOS_105,Peter Parkinson,Records Clerk,On Duty
 837462,HOS_106,Walter White,Pharmacist,On Duty
 502947,HOS_107,Maria Hill,Janitor,On Duty
+963149,HOS_576,Hailey Mills,Orthopedician,On Duty
 693012,HOS_108,Jessica Jones,Radiologist,On Duty
 473829,HOS_109,Luke Cage,Security Guard,On Duty
 882741,HOS_110,Matt Murdock,Anesthesiologist,On Duty

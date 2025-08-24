@@ -36,7 +36,6 @@ const formatSqlOutput = (results) => {
     return html;
 };
 
-
 // Helper component for a single interactive terminal
 const Terminal = ({ id, initialCode, db, isReady }) => {
     const editorRef = useRef(null);
@@ -49,7 +48,7 @@ const Terminal = ({ id, initialCode, db, isReady }) => {
         if (window.monaco && editorElement && !editorRef.current) {
             editorRef.current = window.monaco.editor.create(editorElement, {
                 value: initialCodeRef.current,
-                language: 'sql', // Changed language to SQL
+                language: 'sql',
                 theme: 'vs-dark',
                 minimap: { enabled: false },
                 fontSize: 14,
@@ -78,6 +77,7 @@ const Terminal = ({ id, initialCode, db, isReady }) => {
     const handleReset = () => {
         if (editorRef.current) {
             editorRef.current.setValue(initialCodeRef.current);
+            setOutput('');
         }
     };
 
@@ -102,11 +102,111 @@ const Terminal = ({ id, initialCode, db, isReady }) => {
     );
 };
 
-
 const Case1 = () => {
     const [db, setDb] = useState(null);
     const [isReady, setIsReady] = useState(false);
+    const [answer, setAnswer] = useState('');
+    const [lives, setLives] = useState(3);
+    const [showPopup, setShowPopup] = useState(false);
+    const [popupMessage, setPopupMessage] = useState('');
+    const [showWrongAnswer, setShowWrongAnswer] = useState(false);
+    const [wrongAnswerMessage, setWrongAnswerMessage] = useState('');
     const hasInitialized = useRef(false);
+
+    // Confetti effect function
+    const createConfetti = () => {
+        const colors = ['#ff0000', '#00ff00', '#0000ff', '#ffff00', '#ff00ff', '#00ffff'];
+        const container = document.querySelector('.case-page-container');
+        
+        for (let i = 0; i < 150; i++) {
+            const confetti = document.createElement('div');
+            confetti.style.position = 'fixed';
+            confetti.style.width = '10px';
+            confetti.style.height = '10px';
+            confetti.style.backgroundColor = colors[Math.floor(Math.random() * colors.length)];
+            confetti.style.borderRadius = '50%';
+            confetti.style.zIndex = '1000';
+            confetti.style.left = Math.random() * window.innerWidth + 'px';
+            confetti.style.top = '-10px';
+            
+            container.appendChild(confetti);
+            
+            const animation = confetti.animate([
+                { transform: 'translateY(0) rotate(0deg)', opacity: 1 },
+                { transform: `translateY(${window.innerHeight}px) rotate(${Math.random() * 360}deg)`, opacity: 0 }
+            ], {
+                duration: Math.random() * 3000 + 2000,
+                easing: 'cubic-bezier(0, .9, .57, 1)'
+            });
+            
+            animation.onfinish = () => confetti.remove();
+        }
+    };
+
+    // Handle answer checking
+    const handleCheckAnswer = () => {
+        if (lives <= 0) return;
+        
+        const trimmedAnswer = answer.trim();
+        
+        if (trimmedAnswer === 'Peter Parkinson') {
+            setPopupMessage(`Yay! You're halfway there. Peter Parkinson is the one who stabbed the doctor. Read the crime_scene_report again.
+                You are surely missing something.`);
+            setShowPopup(true);
+        } else if (trimmedAnswer === 'Eva Maria') {
+            createConfetti();
+            setPopupMessage(`Correct! Eva Maria is the murderer. She slit the doctor's throat, while the doctor caught her stealing Clara's Jewellery.`);
+            setShowPopup(true);
+        } else {
+            // Decrease lives for wrong answer
+            setLives(prev => {
+                const newLives = prev - 1;
+                return newLives;
+            });
+            setWrongAnswerMessage('Incorrect answer. Try again!');
+            setShowWrongAnswer(true);
+            setTimeout(() => {
+                setShowWrongAnswer(false);
+            }, 5000);
+        }
+        
+        setAnswer('');
+    };
+
+    // Close popup
+    const closePopup = () => {
+        setShowPopup(false);
+    };
+
+    // Reset function for all terminals
+    const handleResetAll = () => {
+        // Reset all editors to initial state
+        const resetButtons = document.querySelectorAll('.get-started-button');
+        resetButtons.forEach(button => {
+            if (button.textContent === 'Reset Query') {
+                button.click();
+            }
+        });
+        setLives(3);
+        setAnswer('');
+        setShowPopup(false);
+        setShowWrongAnswer(false);
+    };
+
+    // Prevent page reload
+    useEffect(() => {
+        const handleBeforeUnload = (event) => {
+            event.preventDefault();
+            event.returnValue = '';
+            return '';
+        };
+
+        window.addEventListener('beforeunload', handleBeforeUnload);
+        
+        return () => {
+            window.removeEventListener('beforeunload', handleBeforeUnload);
+        };
+    }, []);
 
     useEffect(() => {
         if (hasInitialized.current) return;
@@ -200,7 +300,6 @@ const Case1 = () => {
         initializeEnvironment();
     }, []);
 
-
     return (
         <>
         {/* --- INJECTING THE CSS --- */}
@@ -234,6 +333,70 @@ const Case1 = () => {
             .report h4 { font-family: 'Special Elite', cursive; color: #f5f5f5; margin: 0 0 0.5rem 0; font-size: 1.1rem; }
             .report p { margin: 0; color: #b0b0b0; font-size: 0.9rem; line-height: 1.6; }
             .victim-photo { filter: grayscale(100%) contrast(1.2); border: 2px solid #555; width: 100%; height: auto; margin-bottom: 1rem; }
+            .answer-section { margin-top: 20px; }
+            .answer-input { 
+                width: 100%;
+                padding: 10px;
+                background: #000;
+                border: 1px solid #333;
+                border-radius: 4px;
+                color: #e0e0e0;
+                font-family: 'Roboto Mono', monospace;
+                margin-bottom: 10px;
+            }
+            .popup {
+                position: fixed;
+                top: 50%;
+                left: 50%;
+                transform: translate(-50%, -50%);
+                background: rgba(10, 15, 20, 0.95);
+                border: 2px solid #c23616;
+                padding: 20px;
+                border-radius: 5px;
+                z-index: 1000;
+                text-align: center;
+                font-family: 'Special Elite', cursive;
+                color: #c23616;
+                box-shadow: 0 0 20px rgba(194, 54, 22, 0.5);
+                max-width: 80%;
+                width: 500px;
+            }
+            .popup::before {
+                content: "";
+                position: absolute;
+                top: 0;
+                left: 0;
+                right: 0;
+                bottom: 0;
+                background: linear-gradient(45deg, rgba(194, 54, 22, 0.1), transparent);
+                z-index: -1;
+            }
+            .close-btn {
+                position: absolute;
+                top: 10px;
+                right: 10px;
+                background: none;
+                border: none;
+                color: #c23616;
+                font-size: 1.5rem;
+                cursor: pointer;
+                font-family: 'Special Elite', cursive;
+            }
+            .wrong-answer {
+                position: fixed;
+                bottom: 20px;
+                right: 20px;
+                background: rgba(10, 15, 20, 0.95);
+                border: 2px solid #ff0000;
+                padding: 15px;
+                border-radius: 5px;
+                z-index: 1000;
+                text-align: center;
+                font-family: 'Special Elite', cursive;
+                color: #ff0000;
+                box-shadow: 0 0 15px rgba(255, 0, 0, 0.5);
+                max-width: 300px;
+            }
         `}</style>
         <main className="case-page-container">
             <div className="dossier">
@@ -279,12 +442,37 @@ Change the value of 'name' to see the structure of the other tables you learned 
                                 
                                 <Terminal id={3} initialCode={""} db={db} isReady={isReady} />
 
-                                <p className="mission-briefing">
-                            <strong>Check your Answer!<br /> When you think you know the killer, enter their full name below.
-                            </strong>
-                        </p>
-                                
-                                <Terminal id={4} initialCode={`INSERT INTO solution VALUES (1, 'Insert the name of the person you found here');\nSELECT value FROM solution;`} db={db} isReady={isReady} />
+                                <div className="answer-section">
+                                    <p className="mission-briefing">
+                                        <strong>Check your Answer!<br /> When you think you know the killer, enter their full name below.
+                                        </strong>
+                                    </p>
+                                    <input
+                                        type="text"
+                                        value={answer}
+                                        onChange={(e) => setAnswer(e.target.value)}
+                                        className="answer-input"
+                                        placeholder="Enter the criminal's name..."
+                                    />
+                                    <div className="buttons">
+                                        <button 
+                                            onClick={handleCheckAnswer} 
+                                            className="get-started-button"
+                                            disabled={lives <= 0}
+                                        >
+                                            Check Answer
+                                        </button>
+                                        <button 
+                                            onClick={handleResetAll} 
+                                            className="get-started-button"
+                                        >
+                                            Reset All
+                                        </button>
+                                        <span style={{display: 'flex', alignItems: 'center', gap: '5px'}}>
+                                            Lives: {Array(lives).fill('❤️').join('')}
+                                        </span>
+                                    </div>
+                                </div>
                             </>
                         )}
 
@@ -305,6 +493,19 @@ Change the value of 'name' to see the structure of the other tables you learned 
                     </aside>
                 </div>
             </div>
+            
+            {showPopup && (
+                <div className="popup">
+                    <button className="close-btn" onClick={closePopup}>×</button>
+                    {popupMessage}
+                </div>
+            )}
+            
+            {showWrongAnswer && (
+                <div className="wrong-answer">
+                    {wrongAnswerMessage}
+                </div>
+            )}
         </main>
         </>
     )

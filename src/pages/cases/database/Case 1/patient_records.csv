@@ -9,13 +9,14 @@ person_id,patient_id,name,guardian_name,admit_date,case_description,concerned_do
 100180,PAT_010,Kathleen Sanders,N/A,20241211,Gallbladder surgery. Smooth recovery.,Oliver Smith,Discharged
 100191,PAT_011,Anna Patterson,Mark Patterson,20241130,Severe allergic reaction. Stabilized and discharged with an EpiPen.,Arthur Dwayne,Discharged
 100202,PAT_012,Willie Diaz,N/A,20241025,Chronic back pain management.,Enzo Dunkins,Under Treatment
+346865,PAT_743,Peter Parkinson,N/A,N/A,A bone broken in the left leg.,Hailey Mills,Checkup Done
 100213,PAT_013,Beverly Jordan,N/A,20240919,Hip replacement surgery. Currently in physical therapy.,Oliver Smith,Under Treatment
 100224,PAT_014,Bobby Gomez,Maria Gomez,20240808,Treatment for a severe burn on the arm.,Arthur Dwayne,Discharged
 100235,PAT_015,Jean Crawford,N/A,20240701,Diagnosed with Type 2 diabetes. Admitted for initial stabilization and education.,Enzo Dunkins,Discharged
-346865,PAT_016,Peter Fairway,Mary Parkinson,20240615,Admitted for observation after a car accident. Minor injuries.,Oliver Smith,Discharged
+346867,PAT_016,Peter Fairway,Mary Parkinson,20240615,Admitted for observation after a car accident. Minor injuries.,Oliver Smith,Discharged
 200101,PAT_017,Emily White,N/A,20240105,Influenza symptoms, treated and released.,Enzo Dunkins,Discharged
 200102,PAT_018,James Green,Sarah Green,20240108,Minor surgery for an ingrown toenail.,Oliver Smith,Discharged
-326898,PAT_001,Susanne Parkinson,Peter Parkinson,20250715,Admitted with severe respiratory distress. Died during surgery.,Arthur Dwayne,Deceased
+326898,PAT_267,Susanne Parkinson,Peter Parkinson,20250715,Admitted with severe respiratory distress. Died during surgery.,Arthur Dwayne,Deceased
 471879,PAT_002,Michael Moore,N/A,20250820,Underwent emergency appendectomy. Currently recovering in post-op.,Oliver Smith,Under Treatment
 200103,PAT_019,Linda Black,N/A,20240112,Asthma attack, stabilized and monitored.,Arthur Dwayne,Discharged
 200104,PAT_020,Robert Hill,N/A,20240115,Acute bronchitis, prescribed antibiotics.,Enzo Dunkins,Discharged

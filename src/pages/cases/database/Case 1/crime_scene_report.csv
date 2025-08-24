@@ -191,7 +191,7 @@ date,type,description,city
 20250109,Burglary,"A tech startup's office was burglarized; prototypes stolen.",Westbrook
 20250111,Robbery,"A food delivery driver was robbed of their cash and vehicle.",Willow Creek
 20250113,Fraud,"An elderly person was scammed over the phone by someone impersonating a bank official.",Silveridge
-20250821,Murder,"A doctor was found dead in his flat. There were three witnesses. One of them was a lady who lived next to the victim's flat, the other was the victim's wife and the last one lives in silk street, but works in the apartment.",Silveridge
+20250821,Murder,"A doctor was found dead in his flat. He was stabbed and his throat was slit. There were three witnesses. One of them was a lady who lived next to the victim's flat, the other was the victim's wife and the last one lives in silk street, but works in the apartment.",Silveridge
 20250115,Theft,"A drone was shot down and stolen from a park.",Crestwood
 20250117,Harassment,"A public official reported receiving threatening messages.",Maple Creek
 20250119,Burglary,"A recording studio was broken into; audio equipment stolen.",Northwood
@@ -201,16 +201,16 @@ date,type,description,city
 20250127,Burglary,"A veterinary clinic was broken into; pet medication stolen.",Stonebridge
 20250129,Extortion,"A hacker is demanding ransom after a data breach.",Westbrook
 20250201,Theft,"A shipment of designer clothes was stolen from a truck.",Willow Creek
-20250203,Smuggling,"Counterfeit luxury goods were seized at a port.",Silveridge
+20250821,Smuggling,"Counterfeit luxury goods were seized at a port.",Silveridge
 20250205,Theft,"A food truck was stolen from its usual spot.",Crestwood
 20250207,Vandalism,"Tires of multiple cars on one street were slashed.",Maple Creek
 20250209,Assault,"A political rally was disrupted by counter-protesters, leading to scuffles.",Northwood
 20250211,Burglary,"A greenhouse was broken into and rare plants were stolen.",Oakhaven
 20250213,Theft,"A custom-built computer was stolen from a gaming cafe.",Pinehurst
 20250215,Fraud,"A fake online store took payments but never shipped goods.",Riverbend
-20250217,Theft,"A street musician's earnings were stolen.",Stonebridge
+20250821,Theft,"A street musician's earnings were stolen.",Stonebridge
 20250219,Assault,"A referee was attacked by a player during a local sports match.",Westbrook
-20250221,Burglary,"A comic book store was burgled; a rare first edition was the target.",Willow Creek
+20250821,Burglary,"A comic book store was burgled; a rare first edition was the target.",Willow Creek
 20250223,Kidnapping,"A wealthy industrialist's pet was kidnapped, and a ransom was demanded.",Silveridge
 20250225,Theft,"A collection of antique maps was stolen from a university archive.",Crestwood
 20250227,Vandalism,"A public swimming pool was drained and filled with soap.",Maple Creek
