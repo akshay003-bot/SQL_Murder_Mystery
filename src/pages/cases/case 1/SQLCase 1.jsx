@@ -433,7 +433,7 @@ Change the value of 'name' to see the structure of the other tables you learned 
                                 
                                 <p className="mission-briefing">
                             The Schema for the databases required for the game is given below:
-                            <img src="../assets/WhatsApp Image 2025-08-25 at 1.44.45 PM.jpeg" style={{borderRadius: "10px"}} />
+                            <img src={schema} style={{borderRadius: "10px"}} />
                         </p>
                         <p className="mission-briefing">
                             <strong>The rest is up to you!<br /> Use your knowledge of the database schema and SQL commands to find out who committed the murder.
