@@ -1,6 +1,7 @@
 import React, { useEffect, useRef, useState } from 'react';
 import "../styles/Case.css";
 import doctor_placeholder from "../assets/Gemini_Generated_Image_gqu5hngqu5hngqu5.png";
+import schema from "../assets/WhatsApp Image 2025-08-25 at 1.44.45 PM.jpeg";
 import crime_scene_reports from "../database/Case 1/crime_scene_report.csv?raw";
 import personnel from "../database/Case 1/personnel.csv?raw";
 import interviews from "../database/Case 1/interviews.csv?raw";
@@ -432,7 +433,7 @@ Change the value of 'name' to see the structure of the other tables you learned 
                                 
                                 <p className="mission-briefing">
                             The Schema for the databases required for the game is given below:
-                            <img src="https://mystery.knightlab.com/schema.png" style={{borderRadius: "10px"}} />
+                            <img src="../assets/WhatsApp Image 2025-08-25 at 1.44.45 PM.jpeg" style={{borderRadius: "10px"}} />
                         </p>
                         <p className="mission-briefing">
                             <strong>The rest is up to you!<br /> Use your knowledge of the database schema and SQL commands to find out who committed the murder.
